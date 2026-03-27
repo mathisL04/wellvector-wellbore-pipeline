@@ -1,0 +1,50 @@
+```markdown
+| DRILL STEM TEST |
+| --- |
+| TEST | DEPTH | CHOKE | RECOVERY | PRESS. |
+| NO | BELOW | SIZE |  | (psi) |
+|  | KB | mm | OIL | GAS | OIL | GAS | GOR | WHFP | BHFP |
+|  |  |  | Sm3/d | M Sm3 | GRAV. | GRAV. | m3/m3 |  |  |
+|  |  |  |  | /d | g/cm3 | rel.air |  |  |  |
+| 1 | 4850 - 4870 | NO PRODUCTION |  |  |  |  |  |  |  |
+| 2 | 4625 - 4789 | TUBING | FAILED | - JOB | ABANDONED |  |  |  |
+| 3 | 4550 - 4577 | 23 |  | 0.82 |  |  |  |  |  |
+
+| AVAILABLE LOGS |
+| --- |
+| LOG TYPE | INTERVALS | 1/200 | 1/500 |
+| ISF LSS GR | 479 - 1383 | X | X |
+| ISF LSS | 1377 - 3157 | X | X |
+| DIL SLS | 3155 - 3491 | X | X |
+| DIMSFL LSS NGS | 3487 - 4931 | X | X |
+| *LDL CNL | 3155 - 3406 | X | X |
+| LDL CNL | 3487 - 4621 | X | X |
+| CNL | 4343 - 4867 | X | X |
+| *GR CAL | 3155 - 3331 | X | X |
+| SHDT/CDM | 3487 - 4932 | X |  |
+| SHDT/AP | 3487 - 4932 | X |  |
+| SHDT/AP | 3480 - 3820 | 1:40 |  |
+| SHDT/AP | 4074 - 4126 | 1:40 |  |
+| SHDT/AP | 4128 - 4661 | 1:40 |  |
+| SHDT/AP | 4635 - 4932 | 1:40 | X |
+| *NGT SPECTROSCOPY | 3155 - 3404 | X | X |
+| NGT SPECTROSCOPY | 3487 - 4931 | X |  |
+| NGT | 3425 - 4612 | X |  |
+| RFT | 3187 - 3309 | X |  |
+| RFT | 3350 - 3405 | X |  |
+| RFT | 4150 - 4607 | X |  |
+| RFT | 4549 - 4854 | X |  |
+| SONIC WAVEFORMS | 4480 - 4892 | X | 5" = 100 FT |
+| MWD | 1387 - 3137 |  |  |
+| CBL VDL | 121 - 1376 | X |  |
+| CBL VDL | 2609 - 3470 | X |  |
+| CBL VDL | 3425 - 4909 | X |  |
+| MUD | 1402 - 4927 |  | X |
+| VELOCITY (S.C.L.) | 478 - 4931 |  | X |
+
+(Geogram Synthetic Seismogram, 5-10 cm/s,  
+nor./rev. polarity, min/zero phase, 4 stk)  
+(VSP, plot 1-16, n/r pol., stacked data 16 stk)  
+
+* - BOTH SCALES ON ONE LOG
+```

@@ -1,0 +1,29 @@
+```markdown
+The final design consisted of:
+
+1) 8,000 gals. of 10% HCl acid with 50 ball sealers if only zone 1 was perforated, but with 100 ballsealers if all three zones were perforated. This is to clean up wellbore damage and insure even distribution of acid throughout all three zones.
+
+2) Displace with seawater to perforations.
+
+3) Shut in 15 min. then backsurge 5 min. Repeat. This is to displace the ball sealers from the perforations.
+
+4) Pump 20,000 gals of cooldown pad. Minimizes tubing acid - tubing interaction, lower temperatures prolong life of gels, initiates fracture, and establish fluid loss control.
+
+5) Pump 20,000 gals. of gel pad. This creates fracture geometry for entry of proppant stage. All the gels are delayed crosslink to minimize pumping friction and pressure.
+
+6) Pump 8,000 gals. gel pad with 7,500 lb. of 20-40 mesh sintered Bauxite. The proppant is what holds the fracture open after it is formed.
+
+7) Pump 8,000 gals. gel pad with 15,000 lb of 20-40 mesh sintered Bauxite. The proppant comes in increasing concentration with each stage to taper and layer it into the fracture.
+
+8) Pump 8,000 gals. gel pad with 22,500 lb. of 20-40 mesh sintered Bauxite.
+
+9) Pump 8,000 gals. gel pad with 30,000 lb. of 20-40 mesh sintered Bauxite.
+
+10) Over displace to top of perforations plus 10 Bbls with sea water.
+
+Maximum surface pressure= 9500 psi with minimum pump rate of 15 BPM.
+
+### C.3 STIMULATION FAILURE
+
+The job was awarded to Halliburton on low bid. On 15 September 1983, the lowest Triassic zone was perforated and 43 ft. of the 2 1/8" dome scallop perforating gun was left in the bottom of the hole. With the bottom perforation at 15,712 ft md and the bottom of the 4.25" hole at 15,738 ft md, it is readily apparent that the gun covers the lower half of these perforations.
+```

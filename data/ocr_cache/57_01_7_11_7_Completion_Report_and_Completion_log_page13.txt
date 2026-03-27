@@ -1,0 +1,16 @@
+
+The PPCO sedimentology and petrology report (Append. 4) indicates only 49-60% quartz and up to 23% clay with an average of 14% clay. These clays are 85-90% illite and the remaining clays are chlorite. The report states:
+
+>The most significant diagenetic event affecting the Jurassic reservoir potential is the precipitation of authigenic illite. Fig. 9,11, and 13 (within PPCO Sed-Pet report) demonstrate the authigenic, pore-filling occurrence of the fibrous illite. The fibers dramatically increase the surface area of pore throats, thus reducing the effective permeability of the pore fluids.... Most of the hydrocarbon residue present in the sands is trapped within the fibrous illite (fig. 9 & 10).... The reduced presence of clay minerals and matrix debris results in higher porosity in the Triassic sandstones.... Figures 25 and 26 contrast the overall porosity differences between the Jurassic and Triassic. The hydrocarbon residue present within the Jurassic sands is trapped within the authigenic illite and clay-rich matrix debris occluding most of the porosity.
+
+Again, this information was not available until January 1984.
+
+The stimulation proposals for the Jurassic rock were very similar to those for the previous Triassic stimulation, since the rocks appeared initially to be very similar. The data (Fig. 7) given to the companies was uprated for 9,500 psi surface operating pressure. The bottom hole temperature was updated to 360 deg. F and the bottom hole pressure after perforating was increased to 11,582 psi though it was only 11,354 psi after the drawdown and buildup.
+
+Halliburton recommended a direct hydraulic propped fracture job (Append. 18) using a 20/40 mesh ceramic proppant (interprop). Dowell-Schlumberger proposed that the job consist of two parts; first a matrix acid wash and then a hydraulic propped fracture (Append. 19) using a 20/40 mesh sintered bauxite proppant (superprop). Dowell-Schlumberger also felt that the job could be put away at 15 BPM, a lower threshold than the 20 BPM required for the Halliburton proposal.
+
+D.3 PROBLEMS DUE TO DRILLING MUD
+
+The overall program was to perforate the section, drawdown, buildup, injection test using prepad, acid job, cleanup flow, buildup, drawdown, hydraullic propped frac, cleanup, buildup, drawdown, buildup, and flowing sample recovery. The first drawdown, buildup after the perforating run would give a base level skin factor,
+
+42.5.3.MAR0301.11

@@ -1,0 +1,14 @@
+
+second proposals was that Halliburton wanted to do a limited surface wash of $32,000$ gals. and displacement, while DS put forth a long acid fracture job of $103,000$ gals. and displacement. Using their recommendations, the following job was put out to bid: a) 10,000 gals. cooling preflush, b) 2,500 gals. acid $90\%$ of $15\% \text{HCl}$ with $10\%$ of organic acid, c) 1,000 gals. of overflush, d) 1,000 gals of diverter with $1.5 \text{ppg}$ of diverter, and e) 9,500 gals. of displacement; all in a job order of a,b,c,d,b,c,d,b,c,e for a total of $32,000$ gals. The job was subsequently awarded to Dowell-Schlumberger on low bid and on $28$ August $1983$ was initiated.
+
+$\mathbf{B . 3} \text{ STIMULATION FAILURE}$
+
+After perforating, gauges were run into the hole, bottom hole pressure was measured ($11,012 \text{psi}$ at $15,993 \text{ft}$ md) and the well was opened on a $16/64"$ choke. The surface pressure dropped from $4,651 \text{psi}$ to zero psi within $1 \text{hr.}$ It was then shut in for a $10 \text{hr.}$ build up prior to stimulating. The injection rate for the cooling preflush was only $1.5 \text{BPM}$ at $8,800 \text{psi}$. After $174 \text{Bbls}$ were pumped, the job was aborted as per minimum injection procedure (Append. 10) which requires a working rate of $10-15 \text{BPM}$. At that low rate and depth, most of the acid would have been spent on the tubing and furthermore the possible fracture network seemed incapable of accepting the stimulation. The well was opened again at $16/64"$ choke and the surface pressure dropped from $6394 \text{psi}$ to zero psi while yielding only $30 \text{Bbls of seawater.}$ A bailer run retrieved only gas cut mud. The dolomite zone was abandoned and the well was recompleted in the lower Triassic zones.
+
+$\mathbf{C.} \text{ TRIASSIC AGE SANDSTONES}$
+
+$\mathbf{C.1} \text{ ROCK DATA}$
+
+RFT results (Append. 7) again indicated tight formation rock with the possibility of some permeability in the upper parts of the zones. After reviewing the CPI with Drilling and Geology, it was decided to test four zones in the Triassic age section, but to include the highest zone with the Jurassic test. The upper Triassic zone's proximity to the Jurassic zones of high porosity precluded separate testing due to space requirements for cement and tailpipe of successive completion strings. There were some cores taken in the upper formation (Fig. 10) from $15,012-15,152 \text{ft}$ md. These provided enough material for the service companies and the PPCO sedimentary geology group.
+
+$\mathbf{42.5.3.MAR0301.6}$

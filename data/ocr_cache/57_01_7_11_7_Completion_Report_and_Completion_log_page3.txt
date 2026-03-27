@@ -1,0 +1,39 @@
+```markdown
+PHILLIPS PETROLEUM
+
+66
+
+INTER-OFFICE CORRESPONDENCE
+
+STAVANGER OFFICE
+
+MAR/amr
+
+March 1, 1984
+
+ENGINEERING REPORT
+
+| TO: | G.E. Hicks | IN RE: | COD 7/11-7 (6 SLOT) |
+| --- | --- | --- | --- |
+| FROM: | M.A. Rogers |  | EXPLORATION WELL |
+
+I. OBJECTIVES
+
+1. To report and evaluate the data obtained during the drilling and testing of Cod 7/11-7 slot 6.
+
+2. Evaluate the hydrocarbon potential of the three exploration zones penetrated by the wellbore.
+
+II. CONCLUSIONS
+
+1. The drilling and testing of Cod 7/11-7 was a qualified success. The project has demonstrated the presence of hydrocarbons (Oil API 41.1 deg) in the Jurassic and Upper Triassic aged sandstones at high temperatures (360 deg F) high pressures (>11,000 PSI) and deep penetration (14,000 - 15,000 ft md).
+
+2. A lengthy testing program on three separate formations established the presence of gas and oil but due to either poor rock quality or mechanical problems, the find is not presently commercial.
+
+3. It is probable that the mud program damaged the reservoir rock in the near wellbore extensively which in turn adversely affected the test flowrates.
+
+III. RECOMMENDATIONS
+
+1. Drill to the Triassic/Jurassic age sandstones again at locations directed by Geology.
+
+42.5.3.MAR0301.1
+```

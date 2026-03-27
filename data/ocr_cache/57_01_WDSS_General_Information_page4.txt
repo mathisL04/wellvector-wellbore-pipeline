@@ -1,0 +1,29 @@
+GELOGICAL TOPS
+
+WELL 7/11-7
+
+|  | Depth m (RKB) |
+| --- | --- |
+| Rogaland Group | 3133,0 |
+| Balder Fm | 3133,0 |
+| Sele Fm | 3146,0 |
+| Lista Fm | 3185,0 |
+| Maureen Fm Eqv | 3377,0 |
+| Chalk Group | 3390,0 |
+| Ekofisk Fm | 3390,0 |
+| Tor Fm | 3469,0 |
+| Hod Fm | 3874,0 |
+| Plenus Marl Fm | 4200,0 |
+| Hidra Fm | 4208,0 |
+| Cromer Knoll Group | 4318,0 |
+| Rødbø Fm | 4318,0 |
+| Valhall Fm | 4360,0 |
+| Tyne Group | 4403,0 |
+| Mandal Fm | 4403,0 |
+| Farsund Fm | 4448,0 |
+| Vestland group | 4527,0 |
+| Ula Fm | 4527,0 |
+| Triassic | 4566,0 |
+| Skagerak Fm | 4566,0 |
+| Zechstein Group | 4863,0 |
+| TD = | 4927,0 |

@@ -1,0 +1,66 @@
+
+```markdown
+# WELL NO:7/11-7
+
+**OPERATOR:** PHILLIPS PETROLEUM CO NORWAY  
+**LICENSE NO:** 018  
+
+**TOTAL DEPTH:** 4337 M RKB  
+**MD:** 4188 M  
+**WATER DEPTH:** 78 M  
+
+**COORDINATES:**  
+- LATITUDE: 57°54'14.82"N  
+- LONGITUDE: 02°26'05.04"E  
+
+**DATE:**  
+- SPUD DATE: 30.12.93  
+- COMPL. DATE: 03.12.95  
+
+**STATUS:** SUSPENDED OIL DISC.  
+**GOOD PLATFORM**  
+
+**LICENSE GROUP:**  
+| COMPANY              | %   | BATCH/OIL/MISC |
+|----------------------|-----|----------------|
+| NOOECOLPLYA/S        | 12.0406 |        |
+| COPANORTIndoeA/S     | 0.04   |        |
+| ELF QtqATINE HORDE A/S | 8.0945 |        |
+| EURAFREP HOROE A/S   | 0.4567 |        |
+| NOR flav NEA/S       | 30.0000 |        |
+| NORSK HYDRO PRODUKSJON A.S | 16.7000 |        |
+| NORWAROIL A/S        | 30.0000 |        |
+| PHILLIPS PETROLEUM CO NORWAY | 30.7037 |        |
+| TOTAL NORANK OREK A/S | 4.0047 |        |
+
+**LOCATION MAP**  
+(scale: 1:4000)
+
+**COMPLETION LOG**
+
+| Depth (LRD) | Bit Size | ROP | Mud Weight | Temperature | etc |
+|-------------|----------|-----|------------|-------------|-----|
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+| ...         | ...      | ... | ...        | ...         | ... |
+
+### DESCRIPTION
+```

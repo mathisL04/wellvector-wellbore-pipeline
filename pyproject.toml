@@ -1,0 +1,43 @@
+[project]
+name = "well-extraction-pipeline"
+version = "0.1.0"
+description = "SOTA pipeline for extracting casing design data from Norwegian well documents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27",
+    "pymupdf>=1.24",
+    "pdfplumber>=0.11",
+    "pydantic>=2.9",
+    "openai>=1.50",
+    "docling>=2.15",
+    "pandas>=2.2",
+    "rich>=13.9",
+    "pillow>=10.4",
+]
+
+[project.optional-dependencies]
+local-ocr = [
+    "transformers>=4.46",
+    "torch>=2.4",
+    "accelerate>=1.0",
+    "qwen-vl-utils>=0.0.8",
+]
+
+[project.scripts]
+well-extract = "pipeline.main:main"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+]
+
+[tool.uv.sources]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pipeline"]
