@@ -1,0 +1,16 @@
+
+```markdown
+REQUEST AND SAMPLES
+
+CS-83-48
+
+1. INFORMATION REQUESTED
+Solubility in 15% HCL and 12-3 mud acid and scanning electron microscope study.
+
+2. SAMPLES TESTED
+Five sidewall rock samples were received in the lab. from depths of 15,010 ft, 15,168 ft, 15,340 ft, 15,686 ft and 15,703 ft from COD 7/11-7.
+
+They were labelled for analysis purposes A,B,C,D and E respectively.
+
+All chemicals used came from laboratory stock.
+```

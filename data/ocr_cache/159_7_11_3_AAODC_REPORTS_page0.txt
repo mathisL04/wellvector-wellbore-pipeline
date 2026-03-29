@@ -1,0 +1,127 @@
+
+```markdown
+Nr. 01548
+
+| DAILY DRILLING REPORT |
+| --------------------- |
+| REPORT NO. 5 |
+| DATE 11-6-69 |
+
+| OPERATOR |
+| -------- |
+| Phillips Petroleum Co |
+
+| LEASE |
+| ----- |
+| WELL NO |
+| FIELD OR DIST. |
+| COUNTY |
+|orda. Sep |
+| STATE |
+| Norwacy |
+
+| CONTRACTOR |
+| ---------- |
+| ODCO - Norway Inc. |
+
+| RIG NO. | DRILL PIPE STRING | TOOL JOINT O.D. | PUMPS | LAST CASING, TUBING OR LINER |
+| ------- | ----------------- | ---------------- | ----- | ---------------------------- |
+|  | NO. | SIZE | NO. | MANUFACTURER | TYPE | STROKE LENGTH | SIZE | MAKE | WT.& GR. | NO. JOINTS | FEET | RKB TO CSG. HD |
+|  | TYPE THD. |  | 1. |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 2. |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 3. |  |  |  |  |  |  |  |  |  |  |
+
+| SIGNATURE OF OPERATOR'S REPRESENTATIVE | SIGNATURE OF CONTRACTOR'S TOOL PUSHER |
+| -------------------------------------- | ------------------------------------- |
+|  | LeRuble |
+
+| TIME DISTRIBUTION - HOURS | NIGHT | DAY |
+| ------------------------- | ----- | --- |
+| RIG UP & TEAR DOWN |  |  |
+| DRILLING ACTUAL |  |  |
+| REAMING |  |  |
+| CONDITIONING MUD & CIRCULATING |  |  |
+| TRIPS |  |  |
+| LUBRICATE RIG |  |  |
+| DEVIATION SURVEY |  |  |
+| TEST B.O.P. |  |  |
+| CUT OFF DRILLING LINE |  |  |
+| REPAIR RIG |  |  |
+| CORING |  |  |
+| WIRE LINE LOGGING |  |  |
+| RUNNING CASING & CEMENTING |  |  |
+| WAITING ON CEMENT |  |  |
+| DRILL STEM TEST |  |  |
+| OTHER | 12 | 12 |
+| FISHING |  |  |
+| COMPLETION WORK | A. PERFORATING | B. TUBING TRIPS | C. SWABBING | D. TESTING |
+|  |  |  |  |  |
+| E. ADDITIONAL |  |  |  |  |
+| TOTALS | 12 | 12 |
+| TIME SUMMARY |
+| (OFFICE USE ONLY) |
+| DAY WORK |
+| HRS. W/DP |
+| HRS. WO/DP |
+| HRS. STANDBY |
+|  |
+|  |
+|  |
+|  |
+| TOTAL DAY WORK |
+| WIRE LINE RECORD |
+| REEL NO. 3/4206 |
+| NO. OF LINES 10 | SIZE 13/8 |
+| FEET SLIPPED |
+| FEET CUT OFF |
+| PRESENT LENGTH 6850 |
+| TON MI. OR TRIPS SINCE LAST CUT 149.3 |
+| CUMULATIVE TON MI. OR TRIPS 2685.5 |
+| NO. OF DAYS FROM SPUD |
+| CUMULATIVE ROTATING HRS. |
+
+| NO. | DRILLING ASSEMBLY AT END OF TOUR | BIT RECORD | MUD RECORD |
+| ---- | --------------------------------- | ------------ | ----------- |
+|  | STANDS D.P. | FT. | BIT NO. | TIME |
+|  |  |  | SIZE | WEIGHT |
+|  | SINGLES D.P. | FT. |  | MFG. |
+|  |  |  |  | VISC.-SEC |
+|  | D.C. |  |  | TYPE |
+|  |  |  |  | W.L.-C.C. |
+|  | I.D. O.D. | FT. |  | FLTR. CK. |
+|  |  |  | NOZZLE | NO. |
+|  | D.C. |  | SIZE |
+|  | I.D. O.D. | FT. |.size |
+|  | STB. BODY O.D. | FT. | PH |
+| NOZZLE |
+|  | SER. NO. | SD. CONT.% |
+| TOTAL FTG. |
+| TOTAL HR. RUN |
+| COND. OF BIT |
+| REAMER NO. |
+| REAMER TYPE |
+
+| FOOTAGE | DR_D RM_R CORE_C | CORE NO. | FORMATION (SHOW CORE RECOVERY) | ROTARY RPM | WT. ON BIT 1000# | PUMP PRESS | PUMP NO. | PUMP NO. | METHOD RUN |
+| ------- | ---------------- | --------- | ------------------------------ | --------- | ----------------- | ---------- | -------- | -------- | ---------- |
+| FROM | TO | SLIDE SIZE | S.P.M. | LINER SIZE | S.P.M. | SLIDE PART. LP COMB-C |
+| 0000 | 1200 | 12/6 | Rig under Tow. |
+|  |
+|  |
+| DEVIATION RECORD |
+|    DEPTH    | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| TIME LOG | ELAPSED TIME | DETAILS OF OPERATIONS IN SEQUENCE AND REMARKS |
+| FROM TO |  |
+| 1200 | 1730 | 5½ |
+| 1730 | 2230 | 5⅓ |
+|  | 2230 | 2400 | 1½ |
+| REMARKS |
+|  |
+|  |
+|  |
+| DRILLER  |
+| A.A.O.D.C--A.P.I. OFFICIAL DAILY DRILLING REPORT FORM |
+```

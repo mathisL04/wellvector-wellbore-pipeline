@@ -1,0 +1,35 @@
+```markdown
+- 2 - CONFIDENTIAL
+- Mud Program -
+| Depth: | Weight (ppg) | Viscosity | Pv | Yp | Water Loss |
+| --- | --- | --- | --- | --- | --- |
+| 0 - 1675 feet | 8.8 | 100 | - | - | - |
+| (0 - 510 meters) |  | | - | - | - |
+| 1675 - 6540 feet | 12.0 | 53 | 39 | 12 | 5.2 |
+| (510 - 1933 meters) |  |  |  |  |  |
+| 6540 - 7540 feet | 12.9 | 50 | 35 | 15 | 5 |
+| (1933 - 2298 meters) |  |  |  |  |  |
+| 7540 - 8400 feet | 14.5 | 60 | 50 | 10 | 4 |
+| (2298 - 2560 meters) |  |  |  |  |  |
+| 8400 - 9600 feet | 14.0 | 60 | 50 | 10 | 5 |
+| (2560 - 2926 meters) | |   |  |  |  |
+| 9600 - 10992 feet | 13.9 | 50 | 35 | 14 | 5 |
+| (2926 - 3350 meters) |  |  |  |  |  |
+
+Seawater was used for drilling to 3800 feet at which depth the system was changed to a Drispac-Flosal-Desco type. From 6540 feet to total depth a sodium chloride-saturated Drisco-Flosal-Desco system was used.
+- Logging Program -
+| Schlumberger Tools: | Run: | Interval: |
+| --- | --- | --- |
+| Induction Electric | 1 | 6469 - 10993 feet |
+| Gamma Ray/Sonic-Caliper | 1 | 1621 - 5829 feet |
+|  |  | Gamma Ray to subsea |
+|  | 2 | 5600 - 6539 feet |
+|  | 3 | 6470 - 10990 " |
+| Laterolog | 1 | 9600 - 10991 feet |
+| Microlaterlog/Microlog-Caliper | 1 | 9600 - 10992 feet |
+| Formation Density | 1 | 9600 - 10820 feet |
+|  | - | 10930 - 10991 " |
+| Neutron | 1 | 9600 - 10820 feet |
+| Continuous Dipmeter | 1 | 6471 - 10986 feet |
+| Cement Bond (Gamma Ray-Casing Collar Locator) | 1 | 6400 - 10798 feet |
+```

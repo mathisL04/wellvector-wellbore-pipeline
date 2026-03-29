@@ -1,0 +1,35 @@
+```markdown
+# DATA
+
+## Core Description
+
+Three samples were received; core plugs from 14,927 and 14,942 ft depth, and a 5 1/2 inch section of 4 inch diameter core from 14,931.5 ft. All three are visually alike: medium grained, micaceous, oily, brown quartz sandstones. They are massive, lacking any sedimentary structures.
+
+## Qualitative X-ray Diffraction and Acid Solubility Analyses
+
+Purpose: To identify the types and relative quantities of minerals in the formation sample.
+
+Procedure: A pulverized 1 gram sample is placed in an x-ray beam and rotated through an arc. The x-ray beam is diffracted by the sample and the diffraction patterns are recorded.
+
+Results: The diffraction patterns are used to identify the types of minerals present and their relative quantities. The relative quantities for the submitted samples are as follows:
+
+| Sample No. | Depth (Feet) | 1 | 2 | 3 |
+|------------|--------------|---|---|---|
+| HCl Solubility %* |  | 2.8 | 2.8 | 10.6 |
+| HF Solubility %** |  | 33.7 | 36.3 | 46.9 |
+| Iron Content %*** |  | 0.4 | 0.3 | 1.0 |
+| Quartz |  | 50-65% | 50-65% | 40-50% |
+| Feldspar |  | 15-20% | 25-30% | 20-30% |
+| Calcite |  | 0.5-2% | 0.5-2% | 0.5-2% |
+| Dolomite |  | 2-5% | 2-5% | 5-10% |
+| Illite |  | 2-5% | 2-5% | 5-10% |
+| Mixed Layer Clay |  | 2-5% | 5-10% | 5-10% |
+| Chlorite |  | 2-5% | 0.5-2% | 2-5% |
+| Pyrite |  | 2-5% | 0.5-2% | 0.5-2% |
+
+* 1 gram of sample is added to 0.5N HCl. After reaction, the excess acid is titrated with 0.2N NaOH. The results are calculated and reported as calcium carbonate. (Note: a pure dolomite will be reported as 108%.)
+** This is solubility by actual weight loss after reaction with an excess amount of 3% HF-12% HCl at 150°F for 30 minutes.
+*** 1 gram of sample is added to concentrated HCl. After reaction, the dissolved iron is titrated with Potassium Dichromate and reported as % by weight.
+
+NOTICE: This report was prepared by and is the property of Halliburton Services, a Division of Halliburton Company; the data reported, intended for the private information of the above named party, is limited to the sample(s) described; accordingly, any user of this report agrees that Halliburton shall not be liable for any loss or damage, regardless of cause, including any act or omission of Halliburton, resulting from
+```

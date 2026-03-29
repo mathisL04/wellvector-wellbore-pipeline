@@ -1,0 +1,49 @@
+FORM 1008 R-6
+
+PAGE NO. 3
+
+HALLIBURTON CHEMICAL LABORATORY REPORT NO. T12-A090-83
+
+DATA (Cont'd)
+
+Permeability and Porosity Analyses
+
+Purpose: To measure the permeability and porosity of a porous media.
+
+Procedure: A test plug 1 inch in diameter by 1.187 inches long is obtained from the submitted core sample so that the longitudinal axis of the plug is normal to the depth. The plug is then oven dried and allowed to cool to room temperature.
+
+Permeability is determined by placing the plug securely in a Hassler Sleeve of the Permeameter. Dry air is then flowed through the plug. Measurements of flow rate and pressure drop across the plug are then obtained.
+
+Porosity is determined by placing the plug securely in a Hassler Sleeve of the Porosimeter. The system is purged with helium gas. The meter has a known storage volume in which the helium gas is allowed to reach equilibrium and a reference point is set on the gauge and a reading taken. The valve to the plug chamber is opened allowing the helium gas to expand into all the void spaces of the plug. A gauge reading is taken in cubic centimeters. The plug is removed and a nonporous plug is placed in the holder and the gas volume is measured in the same manner as with the sample plug. The difference in the volumes is the pore volume of the test plug. The bulk volume is calculated from measuring the plug with calipers.
+
+Results: Permeability is calculated by the following:
+
+$\mathrm{K}=\frac{\mathrm{CQL}}{0.7845(\mathrm{D})(\mathrm{D})}$
+
+K is permeability in millidarcys (md)
+
+C is the value reading taken from the charts on the Permeameter
+
+Q is the flow rate in cubic centimeters per second (cc/sec)
+
+L is the plug's longitudinal length in centimeters (cm)
+
+D is the diameter of the plug in centimeters (cm)
+
+Porosity is calculated by the following:
+
+$\mathrm{P}=\frac{\mathrm{P} . \mathrm{V}}{\mathrm{B} . \mathrm{V}} \times 100$
+
+P is the effective porosity expressed in percent (%)
+
+P.V. is the pore volume measured in cubic centimeters (cc)
+
+B.V. is the bulk volume measured in cubic centimeters (cc)
+
+| Sample | Depth | Porosity | Air Permeability |
+| --- | --- | --- | --- |
+| No. | (feet) | (%) | (md) |
+| 1 | 14,927 | 16.37 | 5.59 |
+| 3 | 14,942 | 13.06 | 0.45 |
+
+NOTICE: This report was prepared by and is the property of Halliburton Services, a Division of Halliburton Company; the data reported, intended for the private information of the above named party, is limited to the sample(s) described; accordingly, any user of this report agrees that Halliburton shall not be liable for any loss or damage, regardless of cause, including any act or omission of Halliburton, resulting from the

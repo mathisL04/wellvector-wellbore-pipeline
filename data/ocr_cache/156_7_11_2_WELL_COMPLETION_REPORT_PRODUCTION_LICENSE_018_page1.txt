@@ -1,0 +1,52 @@
+```markdown
+CONFIDENTIAL
+
+# WELL COMPLETION REPORT
+
+PHILLIPS 7/11-2X
+
+PRODUCTION LICENSE 018
+
+CONTENTS
+
+| Page |
+| --- |
+| SUMMARY | l |
+
+# DRILLING HISTORY
+
+- Dates of Operation …………………… 1
+- Details of Operations ……………….. 1
+  - Casing Program ……………………. 1
+  - Mud Program ………………………. 2
+  - Logging Program …………………… 2
+  - Drilling Problems …………………. 2
+  - Hole Deviation ……………………. 3
+  - Stuck Pipe …………………………. 3
+  - Lost Circulation ……………………. 3
+  - Coring ………………………………. 3
+  - Testing ………………………………. 3
+  - Plugging and Abandonment …………. 4
+
+# GEOLOGY
+
+- Geologic Objectives …………………. 5
+- Results ………………………………. 5
+  - Stratigraphy …………………………. 5
+  - Lithology ……………………………. 6
+
+# APPENDIX 1
+
+Core Analysis
+
+# APPENDIX 2
+
+Sidewall Cores
+
+ATTACHMENTS
+
+1) Schlumberger Logs
+2) Geoservices Masterlog and Chromatolog
+3) Robertson Research Company Ltd. Micropaleontology and Stratigraphy Report
+4) Phillips Petroleum Company Composite Log
+```

@@ -1,0 +1,31 @@
+```markdown
+# CHEMICAL CHARACTERISTICS DS CS-83-48
+
+3. Chemical Characteristics
+
+## ACID SOLUBILITY
+
+1. Hydrochloric Acid Solubility Tests
+
+i) Procedure
+
+One gram of pulverised formation was placed in 100 mls of 15% hydrochloric acid for one hour at 150°F. The solution was then filtered, then weighed. The amount of hydrochloric acid soluble material was calculated and reported as a percentage by weight.
+
+ii) Results
+
+| Sample | Percent Solubility in 15% Hydrochloric Acid |
+|--------|---------------------------------------------|
+| A      | 9.0                                         |
+| B      | 8.0                                         |
+| C      | 9.0                                         |
+| D      | 7.0                                         |
+| E      | 13.0                                        |
+
+2. Mud Acid (12% Hydrochloric, 3% Hydrofluoric Acid) Tests
+
+i) Procedure
+
+One gram of pulverised formation was placed in 15% hydrochloric acid for one hour at 150°F to remove any carbonates from the sample. This was done since calcium or magnesium fluoride precipitation could occur when hydrofluoric acid reacts with carbonate material.
+
+The hydrochloric acid was then poured off and 100 mls of mud acid was added. After one hour at 150°F the solution was filtered and the residue dried and weighed.
+```

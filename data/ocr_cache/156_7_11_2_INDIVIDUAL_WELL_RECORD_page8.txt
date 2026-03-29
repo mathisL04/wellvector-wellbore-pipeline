@@ -1,0 +1,36 @@
+```markdown
+LOGGING PROGRAM
+
+| FUN | HOLE SIZE | APPROX INTERVAL | TOOLS |
+| --- | --- | --- | --- |
+| - | 36" | 347-425'RKB | - |
+|  |  | (106-130m) |  |
+| - | 26" | 425'-1500' RKB | (Gamma Ray, Run 1 to subsea) |
+|  |  | (130-457m) |  |
+| 1 | 17½" | 1500'-6500' RKB | LL/MLL-Cal |
+|  |  | (457-1961m) | BHC S/GR-Cal |
+|  |  |  | CDM or HDT |
+|  |  |  | BHC FDC |
+|  |  |  | SNP |
+| 2 | 12 1/4" | 6500-11135 (TD) RKB | Same as Run 1. |
+|  |  | (1981-3394m) | IES SP curve |
+|  |  |  | Sidewall Core Equip |
+|  |  |  | Geophone Survey at |
+|  |  |  | total depth. |
+
+CORING
+
+At least 2 cores are planned, one at the top of the pay sand, and other in oil zone if recognizable. At least full barrel recoveries should be attempted. Additional cores may be taken if warranted. Sidewall cores may be taken if warranted.
+
+TESTING
+
+As warranted.
+
+Distribution:
+Oslo office (3)
+Stavanger office (4)
+Brussels office (3)
+Petrofina (1)
+Agip (1)
+Elf (3)
+```

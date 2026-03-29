@@ -1,0 +1,38 @@
+```markdown
+CONFIDENTIAL
+
+caving problems occurred. After mud weight was increased to 14 pounds per gallon the hole was washed to bottom and was successfully logged and cased.
+
+- Hole Deviation -
+
+Maximum vertical deviation is 2° at 9060 feet, and 1° at 9709 feet.
+
+- Stuck Pipe -
+
+No stuck pipe problems were encountered in the drilling of the well.
+
+- Lost Circulation -
+
+No lost circulation problems occurred.
+
+- Coring -
+
+One core was taken in the Paleocene sandstone in the interval 9943 feet to 9990 feet. 60 sidewall cores were attempted in the interval 9567 feet to 10,809 feet. 30 cores were recovered. (See Appendices 1 and 2.)
+
+- Testing -
+
+Three drill stem tests were carried out with following results:
+
+DST No. 1 (10,388' - 10,474'), IF 10 min, ISI 3 hrs. 38 min. FF 12 hrs. 15 min, FSI 7 hrs. 45 min.  Recovered 23. bb ls salt water-cut mud and mud filtrate. IFP 3770, ISIP 5963, FFP 4150, FSIP 5800.
+
+DST No. 2 (9932' - 10,190'), IF 5 min., ISI 6 hrs. 8 min., FF 6 hrs. 2 min., FSI 5 hrs. 13 min.  Gas to surface in 18 min. Maximum flow rate 43.18 MMCFGPD on 2 - 1-1/2" chokes. IFP 4009, ISIP 5661, FFP 3666, FSIP 5665.  On isochronal tests of DST No. 2 zone, flows of gas and condensate through the separator averaged as follow:
+
+| Choke | MMCFGPD | BPD | API Condensate | SCF |
+|-------|---------|-----|----------------|-----|
+| 1/4" | 3.54 | 504 | 51.6° | 7023 |
+| 27/64" | 9.36 | 1043 | 52.1° | 8974 |
+| 3/4" | 16.55 | 1390 | 52.0° | 11906 |
+| 1" | 22.130 | 1267 | 61.0° | 17470 |
+
+DST No. 3 (9776' - 9836'), IF 15 min., ISI 4 hrs. 35 min., FF 30 min., SI 59 min., pumped in 2 bb ls dies el, IFP 3572, FFP 3602.  FSP (initial) 3967. Pumped in 10 bb ls diesel and acidized with 1000 gals HCl, SI 31 min., FP 8 hrs. 37 min., flowed back 16.75 bb ls diesel, IFP 3711, FFP 3809.
+```

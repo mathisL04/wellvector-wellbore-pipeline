@@ -1,0 +1,64 @@
+```markdown
+# CONFIDENTIAL
+
+**CORE LABORATORIES, INC.**
+Petroleum Reservoir Engineering
+DALLAS, TEXAS
+
+| ID / OLJE | SAKSB: |  |
+| --- | --- | --- |
+| 00783 *399.68 | ARKIV: |  |
+| Page 1 of 2 | RFL 5152A |  |
+| File |  |  |
+| Company Phillips Petroleum Company | Date Sampled | June 10, 1968 |
+| Well 7/11-1X (DST 4) | Province |  |
+| Field Block 7/11 | Country | North Sea, Norway |
+
+## FORMATION CHARACTERISTICS
+
+| Formation Name |  |  |
+| --- | --- | --- |
+| Date First Well Completed |  |  |
+| Original Reservoir Pressure | **PSIG @** | Ft. |
+| Original Produced Gas-Liquid Ratio |  | SCF/Bbl |
+| Production Rate |  | Bbls/Day |
+| Separator Pressure and Temperature | **PSIG** | ° F. |
+| Liquid Gravity at 60° F. |  | ° API |
+| Datum |  | Ft. Subsea |
+| elevation |  | Ft. |
+| Total Depth |  | Ft. |
+| Producing Interval | 9527-9697 | Ft. |
+| Tubing Size and Depth |  |  |
+| Open Flow Potential | In. to | Ft. |
+| Last Reservoir Pressure | **MMSCF/Day** |  |
+| Date | 5328 |  |
+| Reservoir Temperature | **PSIG @** | Ft. |
+| Status of Well | 230 | ° F. @ |
+| Pressure Gauge |  | Ft. |
+
+## WELL CHARACTERISTICS
+
+## SAMPLING CONDITIONS
+
+| Flowing Tubing Pressure |  | PSIG |
+| --- | --- | --- |
+| Flowing Bottom Hole Pressure |  | PSIG |
+| Primary Separator Pressure | 1000 | PSIG |
+| Primary Separator Temperature | 118 | ° F. |
+| Secondary Separator Pressure |  | PSIG |
+| Secondary Separator Temperature |  | ° F. |
+| Field Stock Tank Liquid Gravity |  | ° API @ 60° F. |
+| Primary Separator Gas Production Rate | 26108 | MSCF/Day |
+
+| Pressure Base | 14.696 PSIA |  |
+| --- | --- | --- |
+| Temperature Base | 60 | ° F. |
+| Compressibility Factor (FPV) | 1.080 |  |
+| Gas Gravity (Laboratory) | 0.704 |  |
+| Gas Gravity Factor (FG) | 1.1918 |  |
+| _Stock Tank_Liquid Production Rate @60° F | 855 | Bbls/Day |
+| Primary Separator Gas/_Stock Tank_Liquid Ratio | 30536 | SCF/Bbl |
+| Core Laboratories, Inc., Engineer | or | 32.75 Bbls/MMSCF |
+
+### REMARKS:
+```

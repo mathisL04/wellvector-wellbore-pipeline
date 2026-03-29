@@ -1,0 +1,37 @@
+
+```markdown
+c. Water depth : 78 meters (257 feet)
+Mean Sea Level.
+
+f. Casing program.
+
+| Diam. | Type           | Weight/ ft. | Condition | Set at RKB | Amount cement |
+|-------|----------------|-------------|-----------|------------|---------------|
+| 30"   | 1" Wall        | 330 lbs. A  |           | 130m       |               |
+|       |                |             |           | (425 ft)   | 750 sacks Dalen |
+|       |                |             |           |            | Portland, and 3% Calcium Chloride |
+| 20"   | J ST&C         | 133 lbs. A  |           | 458m       |               |
+|       |                |             |           | (1500 ft)  | 1700 sacks Dalen |
+|       |                |             |           |            | Portland, and 8% bentonite, and 3% Calcium Chloride |
+| 13 3/8" | J ST&C     | 68 lbs. A    |           | 1829m      |               |
+|       | $\downarrow$SS |             |           | (6000 ft)  | 2400 sacks Dalen |
+|       |                |             |           |            | Portland, with 0.3% LWL and 16.1 lbs salt per sack of cement if necessary to use salt saturated cement |
+| 9 5/8" | N But-      | 47 lbs. A    |           | 3353m      |               |
+|       | tress         |             |           | (11000 ft) | 1500 sacks Class "B", and 0.3% LWL; plus 16.1 lbs. salt per sack of cement if necessary to use salt saturated cement. |
+
+g. Blowout preventers:
+
+Upper hole: 20", 2000 p.s.i. Working Pressure Hydril.
+
+Remainder:  2 – 13 5/8" 5000 p.s.i. Working Pressure type LWS Shaffer double hydraulic ram-type.
+
+1 – 13 5/8" 5000 p.s.i. Working Pressure Hydril GK.
+
+Necessary accessory equipment.
+
+(Detailed drawings and descriptions of test procedures previously submitted).
+
+h. Drilling fluid program:
+
+Same as submitted for the 7/11-1 well, except that salt-saturated mud will be carried from approximately 3000 feet RKB to total depth. Please refer to letter of January 9, 1968, A.T. Crump, Phillips Petroleum Company, Stavanger.
+```

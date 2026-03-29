@@ -1,0 +1,32 @@
+have the following properties:
+
+| Weight | - 8.6 lb/gal |
+| --- | --- |
+| Viscosity | - above 150 sec/qt. |
+| Water Loss | - no control |
+
+17½" Hole (6500').
+
+The drilling on the 17½" hole should commence with seawater and proceed with seawater to approximately 4000'. At 4000' commence adding salt to the system while drilling is in progress. Continue adding salt until the mud system is saturated. Dispac and starch should be added as required in a 1/4 ratio to control the water loss at 15 to 20 cc. At this time barite should be added to increase the density of the saturated salt system to 12.0 ppg. Also diesel oil should be added to this mud to maintain 5 to 7% oil. Prior to adding diesel to the system, Soltex should be mixed in the diesel in amounts of approximately 5 ppb. Soltex to one barrel diesel. This mud, having the following properties;
+
+| Weight | - 12.0 lb/gal |
+| --- | --- |
+| Viscosity | - 40 to 50 sec/qt. |
+| Filtrate | - 15 to 20 cc |
+| pH | - 7.0 |
+| Oil | - 6% |
+
+should be maintained to casing depth with the exception that the filtration loss should be lowered to 10 - 15 cc prior to running logs and casing.
+
+12 1/4" Hole (11,000')
+
+The 12 1/4" hole should be drilled with a saturated salt mud as above having the following properties:
+
+| Weight | 12.0 lb/gal |
+| --- | --- |
+| Viscosity | - 40 to 50 sec/qt. |
+| Filtrate | - 10 - 12 cc |
+| pH | - 7.0 |
+| Oil | - 6% |
+
+At about 10,000', the Drispac/Starch combination used to control the filtrate should be changed to Drispac/CMC, also in a 1/4 ratio, because of bottom hole temperature.

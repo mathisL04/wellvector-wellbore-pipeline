@@ -1,0 +1,37 @@
+```markdown
+APPENDIX 1 - (3)
+
+PHILLIPS PETROLEUM CO. CORE NO. 2
+
+TEST AREA SHEET NO. 1
+
+Cod SCALE 1:100 WELL NO. 7711-1X
+
+3 inches = 25 feet
+
+LITHOLOGICAL SYMBOLS AS ON 1:500 SCALE GEOLOGICAL LOG GEOLOGIST
+
+| DEPTH | LOG | DESCRIPTION | REMARKS |
+| --- | --- | --- | --- |
+| FT |  |  |  |
+| 9622 |  | Core No. 2 - 9622 - 9678'. Rec. 22' - 39%. |  |
+| 25 |  | 9622 - 27 SS, lt brn vfg fr fri well |  |
+|  |  | sorted subrd. Occ thin streaks |  |
+| 9630 |  | and laminations of SH, gy-grn hd |  |
+|  |  | platy. |  |
+| 35 |  | 9627 - 32 SS. a.a. and occ lam of SH. |  |
+| 5 |  | 9632 - 44 SS. a.a. w/SH, a.a. SS is sl |  |
+| 9640 |  | more shy. |  |
+|  | Show: | Core had good gas odor and was |  |
+| 45 |  | bleeding gas. |  |
+| No |  | SS had a brn stain that |  |
+| Rec |  | dissipated very quickly v |  |
+| 9650 |  | faint fluor fr - poor milky |  |
+|  |  | cut w/CCl4, fr por and perm, |  |
+| 55 |  | 15° - 20° dip. |  |
+| 9660 |  |  |  |
+| 65 |  |  |  |
+| 9670 |  |  |  |
+| 75 |  |  |  |
+| 78 |  |  |  |
+```

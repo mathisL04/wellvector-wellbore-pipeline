@@ -1,0 +1,44 @@
+e. Water depth
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Diam. | Type | Weight/ | Condi- | Set at | Amount cement |
+|  |  | ft. | tion | RKB |  |
+| 20" | J ST&C | 133 lbs. | A | 152m | 1000 sacks Dalen |
+|  |  |  |  | (500 ft) | Portland, and 3% |
+|  |  |  |  |  | Calcium Chloride |
+| 13 3/8" | J ST&C | 68 lbs. | A | 503m | 700 sacks Dalen |
+|  |  |  |  | (1650ft) | Portland, with |
+|  |  |  |  |  | 8% bentonite & |
+|  |  |  |  |  | 3% Calcium Chloride |
+|  |  |  |  |  | followed by 450 sacks |
+|  |  |  |  |  | Dalen Portland plus |
+|  |  |  |  |  | 3% Calcium Chloride |
+| 9 5/8" | N But- | 47 lbs; | A | 1981m | 800 sacks Dalen |
+|  | tress; | & 43.5 lbs |  | (6500ft) | Portland, 8% |
+|  | LT&C |  |  |  | bentonite, plus |
+|  |  |  |  |  | 0.3% Diacel LWL, |
+|  |  |  |  |  | followed by 900 sacks |
+|  |  |  |  |  | Dalen Portland |
+| 7" | N LT&C | 29 lbs. |  | 3475m | 700 sacks Class "B" |
+|  |  |  |  |  | cement, plus 0.3% |
+|  |  |  |  |  | Diacel LWL, plus 1% |
+|  |  |  |  |  | Diacel "A" |
+
+g. Blowout preventers:
+
+2 - 13 5/8" 5000 p.s.i. Working Pressure type LWS Shaffer double hydraulic ram-type.
+
+1 - 13 5/8" 5000 p.s.i. Working Pressure Hydril GK.
+
+Necessary accessory equipment.
+
+(Detailed drawings and descriptions of test procedures previously submitted).
+
+h. Drilling fluid program:
+
+Hole size: 26 inches
+
+Total depth: 500-550 feet RKB
+
+Hole volume: 114 barrels

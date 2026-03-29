@@ -29,7 +29,7 @@ from pipeline.triage import triage_all
 
 console = Console()
 
-CSV_INPUT = Path("wellbore_document_7_11.csv")
+CSV_INPUT = Path("data/wellbore_document_7_11.csv")
 OUTPUT_DIR = Path("output")
 CACHE_DIR = Path("data/pdfs")
 
@@ -209,12 +209,11 @@ async def run_pipeline(
 
     # Only process HIGH-priority docs (MEDIUM ones like core studies rarely have casing data)
     relevant = [
-        r for r in triage_results
-        if r.relevance == DocumentRelevance.HIGH
+    r for r in triage_results
+    if r.relevance in {DocumentRelevance.HIGH, DocumentRelevance.MEDIUM}
     ]
     stats.documents_triaged_relevant = len(relevant)
     console.print(f"\n  Processing {len(relevant)} HIGH-priority documents\n")
-
     # ── Stage 2: Extraction (OCR + Docling) ───────────────────────────
     console.rule("[bold]Stage 2: Extraction (OCR + Docling)[/]")
     extractions: list[dict] = []

@@ -1,0 +1,26 @@
+
+```markdown
+Notes:
+
+1. The 36" hole is to be drilled to a depth that will allow two or three joints of 30" casing to be set on bottom and still have 10' to 15' of casing above the sea floor. This will provide for better U.T. V. reception and allow for some settling of the 30" casing without the wellhead sinking below the sea floor.
+
+2. In order to minimize hole washout below the 20", set the casing not more than 15 to 20 feet off bottom. A 20" casing design showing all cross overs has been furnished to assist in allowing the hole to be drilled to the proper depth. ALL of the LT&C and Vetco casing must be run on this job. This is the complete Norway stock of these two threads and will eliminate the need for cross overs on future wells.
+
+3. Please note that approximately 60% of the 13 3/8" string will be LT&C casing. This is a non-API casing. Special caution is to be taken to see that the casing is "made-up" properly. The complete section of LT&C casing is to be run in this well so that it may also be eliminated from the Norway stock.
+
+4. Two short 9 5/8" casing joints (± 20') will be provided. One joint is to be placed in the string at ± 9900' and the second at ± 9800'. These joints will be used as checks during perforating operations.
+
+Cement Requirements:
+
+A. 30" casing.
+
+Cement with 600 sxs (56,400 lbs), (700 sxs if 3 joints 30" are run) Dalen Portland cement plus 3% calcium chloride (1692 lbs). The cement slurry should be mixed to 15.6 ppg and will have more than one hour thickening time. FRESH WATER should be used as mixing water. Wait on cement 12 hours before drilling out. At this time the cement will have a compressive strength of approximately 1000 psi.
+
+600 sxs of cement will provide for cement back to the surface plus 400% washout in open hole and fill the bottom 25' of 30" casing if two joints are set. If three joints are set with 700 sx the ratio is about the same. Run one joint of drill pipe below the 30" handling tool. A 30" Baker Float Shoe will- be run on the bottom of the 30" casing.
+
+B. 20" casing.
+
+Cement with 1800 sxs Dalen Portland cement (169,200 lbs) plus 8% bentonite (12,960 lbs) plus 3% calcium chloride (5076 lbs) mixed to 13.1 ppg slurry density. FRESH WATER for mixing water is to be used. Thickening time for the "gel" cement will be 3:00 hrs. plus. Thickening time for the Portland plus 3% Calcium Chloride will be 1 hr. 30 mins.
+
+The above cement design provides for cement back to the surface
+```

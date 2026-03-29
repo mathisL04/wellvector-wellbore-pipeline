@@ -1,0 +1,23 @@
+```markdown
+ESTIMATED TIME REQUIRED TO COMPLETE WELL 7/11-2.
+
+| Days: |  |
+| --- | --- |
+| Drilling | 3 |
+| Logging | 2 |
+| Reaming | 6 |
+| Running Casing | 1 |
+| Cementing and W.O.C. | 1 |
+| Collar log and Perforating | 1 |
+| Test No. 1 | 3 |
+| Squeeze No. 1 | 1 |
+| Test No. 2 | 3 |
+| Squeeze No. 2 | 1 |
+| Test No. 3 | 3 |
+| Squeeze No. 3 | 1 |
+| Test No. 4 | 3 |
+| Squeeze No. 4 | 1 |
+| Test No. 5 | 3 |
+| Temporarily abandon well | 3 |
+| Total | 36 |
+```

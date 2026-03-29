@@ -1,0 +1,40 @@
+CONFIDENTIAL
+
+Results:
+
+Stratigraphy:
+
+| Stratigraphic Unit: | Depth RKB | Depth RKB | Drilled Thickness |
+| --- | --- | --- | --- |
+|  | Meters Feet | Meters Feet | Meters Feet |
+| QUATERNARY |  |  |  |
+| Recent | 106 347 | - 78.3 - 257 |  |
+| Pleistocene |  |  | 404 1327 |
+| TERTIARY |  |  |  |
+| Upper Pliocene | 510 1674 | - 483 -1584 | 105 343 |
+| Lower Pliocene | 615 2017 | - 587 -1927 | 58 192 |
+| Upper Miocene | 673 2209 | - 646 -2119 | 57 187 |
+| Middle Miocene | 730 2396 | - 703 -2306 | 803 2634 |
+| Lower Miocene |  |  |  |
+| Burdigalian | 1533 5030 | -1506 -4940 | 172 564 |
+| Aquitanian | 1705 5594 | -1678 -5504 | 264 866 |
+| Oligocene | 1969 6460 | -1942 -6370 | 697 2288 |
+| Upper-Middle Eocene | 2666 8748 | -2639 -8658 | 142 467 |
+| ?Lower Eocene- |  |  |  |
+| ?Paleocene | 2809 9215 | -2781 -9125 | 65 212 |
+| Upper Paleocene | 2873 9427 | -2846 -9337 | 199 651 |
+| Lower Paleocene |  |  |  |
+| Danian | 3072 10078 | -3044 -9988 | 94 310 |
+| UPPER CRETACEOUS |  |  |  |
+| Upper Maestrichtian | 3166 10388 | -3139 -10298 | 291 954 |
+| Lower Maestrichtian | 3457 11342 | -3430 -11252 | 18 58 |
+| Campanian | 3475 11400 | -3447 -11310 | 16 53 |
+| Coniacian-Turonian | 3491 11453 | -3463 -11363 | 8 27 |
+| UPPER-?LOWER CRETACEOUS |  |  |  |
+| Turonian-Cenomanian- |  |  |  |
+| ?Albian | 3499 11480 | -3472 -11390 | 244 800 |
+| -unconformity- |  |  |  |
+| UPPER PERMIAN |  |  |  |
+| Zechstein Anhydrite | 3743 12280 | -3716 -12190 | 5 15 |
+| Zechstein Salt | 3748 12295 | -3720 -12205 | 226+ 741+ |
+| (Total Depth) | 3973 13036 | -3946 -12947 |  |

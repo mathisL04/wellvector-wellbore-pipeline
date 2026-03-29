@@ -1,0 +1,58 @@
+```markdown
+Upper:
+
+DST No. 5 (9440' - 9455'): 26/64" choke, 6.5 MMCFGD, 480 BPD
+50° API oil; 2 - 1" chokes, 10.5 MMCFGD; 12/64" choke, 2.67
+MMCFGD, 228 BOPD; 4.01 MMCFGD, 359 BOPD.
+
+Middle:
+
+DST No. 4 (9527' - 9697'): 2 - 1-1/4" chokes, 44.3 MMCFGD;
+on isochronal flows: 16/64" choke, 4.39 MMCFGD, 372 BPD
+distillate; 26/64" choke, 10.75 MMCFGD, 970 BPD distillate;
+37/64", 18.00 MMCFGD, 868 BPD distillate; 48/64" choke, 25.20
+MMCFGD, 850 BPD distillate; Absolute open flow potential 101
+MMCFGD.
+
+DST No. 3 (9767' - 9808'): on isochronal flows, from 1/4"
+through 5/8" chokes, from 4.15 to 5.88 MMCFGD and 311 to 665
+BPD 54° API distillate.
+
+Lower:
+
+DST No. 2 (10175' - 10197'): 1½" choke, 5 MMCFGD; 1/4" choke,
+121 M decreasing to 60 MMFGD, recovering 5 barrels brown to
+grey-green oil in water emulsion out of 30 barrels total.
+
+DST No. 1 (10248' - 10370'): recovered ½ to 1 barrel of diesel
+with dark brown dissolved hydrocarbon.
+
+Pressure data plots suggest at least three, possibly four,
+separate reservoirs within the total Paleocene between 9427 - 10388
+feet: (See Appendix 3.)
+
+(1) 9440 - 9455 (DST No. 5) and 9527 - 9697 (DST No. 4).
+
+(2) 9767 - 9808 (DST No. 3)
+
+(3) 10175 - 10197 (DST No. 2)
+
+Additionally, (1) above may consist of two separate reservoirs
+on the basis of distillate gravity respectively 50° in DST No. 5 and
+53.8° in DST No. 4, and by pressure plots as well.
+
+Plugging and Abandonment.
+
+The 9-5/8 inch casing was plugged as follows:
+
+9325 - 9475 feet RKB: Laid a 50 sack plug across final
+perforations.
+
+9289 & 4988 feet RKB: Set Baker cement retainers.
+
+4700 - 4900 feet RKB: Laid 70 sack plug, class "A", neat cement.
+
+500 - 650 feet RKB: Laid cement plug.
+
+Set corrosion cap and abandoned.
+```

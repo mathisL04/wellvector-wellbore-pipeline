@@ -1,0 +1,40 @@
+
+CONFIDENTIAL
+
+| Schlumberger Tools: | Run: | Interval: |
+| --- | --- | --- |
+| Gamma Ray - CCL | l | 9000 - 10260 feet |
+| Cement Bond Log | l | 7100 - 10247 feet |
+| Temperature Log | l | 0 - 13033 feet |
+
+**Drilling Problems:**
+
+**Logging Surface Hole:**
+
+The only significant drilling problem encountered in well 7/11-1X was that of sloughing shale between the depths of 5500 feet and 7600 feet. It was found that a mud density of 12.0 ppg controlled the sloughing shale problem.
+
+**Hole Deviation:**
+
+Vertical deviation nil to 11,468 feet where deviation was 4.5°. At the total depth of 13,000 feet deviation had increased to 11½°.
+
+**Stuck Pipe:**
+
+There was no problem with pipe sticking during the drilling of the well.
+
+**Lost Circulation:**
+
+No lost circulation problems occurred.
+
+**Coring:**
+
+Three cores were taken in the Paleocene sandstone in the following intervals:
+
+9589 - 9622 feet, 9622 - 9678 feet, and 9688 - 9734 feet. (See Appendix 1.)
+
+Ten sidewall cores were attempted and six were recovered between 8154 and 9923 feet. (See Appendix 2.)
+
+**Testing:**
+
+A general distinction can be made between three divisions of the Paleocene in regard to testing results. In the upper section, between 9427 - 9455 feet, 15 feet of net pay were tested. In the middle section between 9527 - 10078 feet 211 feet of net pay were tested. In the lower section between 10078 - 10388 feet which is generally tight, only minor amounts of gas were tested. No water was recovered on any of the tests. Total net pay tested was 226 feet.
+
+Flow rates on tests of Paleocene in 7/11-1X were as follows:

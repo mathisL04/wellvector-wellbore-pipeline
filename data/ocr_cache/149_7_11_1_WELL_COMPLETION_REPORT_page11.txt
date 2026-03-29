@@ -1,0 +1,50 @@
+
+```markdown
+# Lithology:
+
+## Quaternary:
+
+**Recent-Pleistocene undifferentiated:**
+
+Thickness 405 meters (1327 feet).
+
+No lithology was observed to a depth of 1520 feet because the well was drilled without returns. The lower part of the unit is grey, soft, gummy, clay with abundant shell fragments.
+
+## Tertiary:
+
+**Upper Pliocene Clay Unit:**
+
+Thickness 105 meters (343 feet).
+
+This unit is made up of grey to greyish brown, soft, gummy, slightly silty clay. Pyrite and limonite in small quantities together with thin stringers of fine grained, loose, clear sand are found toward the base of the unit.
+
+**Lower Pliocene Clay Unit:**
+
+Thickness 58 meters (192 feet).
+
+This unit is entirely composed of dark grey clays with traces of shell fragments.
+
+**Upper Miocene Clay Unit:**
+
+Thickness 57 meters (187 feet).
+
+This unit is composed entirely of dark grey, gummy clays which are slightly silty.
+
+**Middle Miocene Clay Unit:**
+
+Thickness 803 meters (2634 feet).
+
+This unit is composed of dark grey, gummy clay with occasional thin stringers of very fine grained fair sorted, angular sand.
+
+**Lower Miocene Burdigalian Clay-Shale Unit:**
+
+Thickness 172 meters (564 feet).
+
+This interval contains grey to dark brown, soft, slightly pyritic clays and shales. The upper portion contains good traces of white to grey, occasionally buff, very fine crystalline to sucrosic dolomite.
+
+**Lower Miocene Aquitanian Clay Unit:**
+
+Thickness 264 meters (866 feet).
+
+The Aquitanian is predominantly grey to dark brown, plastic,
+```

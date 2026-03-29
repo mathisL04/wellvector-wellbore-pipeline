@@ -1,0 +1,44 @@
+
+```markdown
+# FORM 1012 R-6
+
+## CHEMICAL RESEARCH AND DEVELOPMENT DEPARTMENT
+
+### HALLIBURTON SERVICES
+DUNCAN, OKLAHOMA
+
+LABORATORY REPORT
+
+No. T12-A090-83
+
+To: Mr. Ian McPherson
+
+Halliburton Overseas Limited
+
+4056 Tananger, Norway
+
+Date: August 5, 1983
+
+This report is the property of Halliburton Services and neither it nor any part thereof nor a copy thereof is to be published or disclosed without first securing the express written approval of laboratory management; it may, however, be used in the course of regular business operation by any person or concern and employees thereof receiving such report from Halliburton Services.
+
+We give below results of our examination of 3 cores.
+
+| Submitted by |  | for Phillips Petroleum Company, Norway |
+| --- | --- | --- |
+| Marked |  | Well: Cod 7/11 A-6 -7? |
+|  | Location: | North Sea |
+|  | Formation: | Jurassic Sandstone |
+|  | Depth: | 14,927; 14,931.5; and 14,942 ft |
+|  | Received: | 7-19-83 |
+
+## PURPOSE
+This report contains the results of the requested analyses.
+
+## RECOMMENDATIONS
+VERSAGEL HT would be a suitable fluid to use for fracturing the Cod 7-11 A-6. At this depth, a delayed crosslink, as experienced with CL-18, will reduce friction going down the tubing, and lower pump hydraulic horsepower. Proper selection of the base gel weight will depend on your pumping time. With 350°F BHT, I suggest a major portion of the job be run with VERSAGEL HT 1700 with 5% methanol and 20 lbs GEL-STA per 1000 gallons (no HT breaker during this stage), then complete the final stage with VERSAGEL HT 1600. The idea should be to try and obtain a uniform gel break after completing the job. This procedure is used domestically quite often. Another idea is to use a large pad (which you will probably need due to fluid loss at 4 md) of HYGEL-566 to cool the formation. The base fluid for VERSAGEL should be 2% KCL, 2 1/2 lbs HYG-3, and 10 lbs K-34 per 1000 gallons. CLA-STA II can be used at 1 gallon per 1000 in the pre-pad stage.
+
+Fracture flow capacity testing indicates that 20/40 mesh INTERPROP™ develops flow capacity comparable to SUPER PROP® even at 10,000 psi closure pressure. INTERPROPS are 13% lighter so are easier to suspend. A few trial runs of the Prop computer program should give you a good idea of the transport and settling characteristics to expect.
+
+NOTICE:
+This report was prepared by and is the property of Halliburton Services, a Division of Halliburton Company; the data reported, intended for the private information of the above named party, is limited to the sample(s) described; accordingly, any user of this report agrees that ... ... not be liable for any loss or damage regardless of cause, including any act or omission of Halliburton, resulting from the
+```

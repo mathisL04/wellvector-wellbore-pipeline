@@ -1,0 +1,36 @@
+
+```markdown
+# Pressure vs Depth Plot
+
+| Pressure (PSI) | Depth |
+| --- | --- |
+| 0 | 0 |
+| 2000 | 2000 |
+| 4000 | 4000 |
+| 6000 | 6000 |
+| 8000 | 8000 |
+| 10000 | 10,000 |
+| 12000 | 12,000 |
+| 14000 | 14,000 |
+| 16000 | 16,000 |
+| 18000 | 18,000 |
+
+### Well Information
+- Well: 7/11 - 3 X
+- Loc: KB Elev: 9755
+- 20" Csg. @ 563' RKB
+- 13 3/8" Csg. @1600' RKB
+- Drilled with Sea Water
+- Displaced Hole with 11.5” Mud
+- ESU Overburden Pressure @ 6471’
+### Normal Formation Pressure Gradient
+(4.629 PSi/ft)
+- 11.6#
+- 12.1#
+- 12.5#
+- 12.9#
+- 9#
+- 10#
+- 14.2#
+- 7” 15# @ 10,760'
+```

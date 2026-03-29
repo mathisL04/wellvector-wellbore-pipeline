@@ -1,0 +1,43 @@
+
+# Rock Properties
+
+**Purpose:** To measure the elastic deformation and strength of rock materials.
+
+**Procedure:** A 15/16 inch diameter by 2 inch plug is drilled horizontally from a core and placed in the test load cell. An axial stress is applied to the plug and the resulting deformation is measured by displacement transducers. Two transducers are mounted to detect axial strain and one transducer to detect lateral strain. The axial stress is applied to the test plug until full scale (120,000 pounds) is reached or failure occurs.
+
+**Results:** This data is recorded as Young's Modulus, which is the ratio of stress to strain for values of stress not exceeding the elastic limit of the test plug. Poisson's Ratio is the ratio of lateral strain to axial strain within the elastic limit of the test plug.
+
+| Sample No. | Depth (feet) | Young's Modulus (psi) | Poisson's Ratio |
+|------------|--------------|-----------------------|-----------------|
+| 1          | 14,927       | 1.8E6                 | 0.27            |
+| 3          | 14,942       | 1.8E6                 | 0.32            |
+
+# Immersion Test
+
+**Purpose:** To observe the effect of various base fluids on core chips from selected representative cores.
+
+**Procedure:** Freshly broken chips from cores are immersed in test fluids; one chip per fluid in a 30 ml beaker. The samples are then placed in a vacuum for one hour. After that time, an observation is made to evaluate the effect of the fluid on the core chip.
+
+**Results:** Released fines from a core chip may indicate formation sensitivity to the test fluid.
+
+Effects of immersion under vacuum at 180°F (test temp.) for one hour in the following:
+
+| Sample No. | Depth (feet) | Sea Water | Fresh Water | 2% KC1 | 2% KC1* | 7½% MCA | 6% HF | Kerosene |
+|------------|--------------|-----------|-------------|--------|---------|---------|-------|----------|
+| 2          | 14,931.5     | N         | V           | N      | N       | N       | N     | N        |
+
+N = No fines released.  
+V = Very small amount fines.  
+S = Small amount fines.  
+M = Moderate amount fines.  
+L = Large amount fines.  
+
+P = Partially disintegrated.  
+CD = Completely disintegrated.  
+GR = Gelatinous residue formed.  
+PD = Partially dissolved.  
+C = Completely dissolved.  
+
+*0.5 gallon CLA-STA II compound per 1000 gallons.
+
+NOTICE: This report was prepared by and is the property of Halliburton Services, a Division of Halliburton Company; the data reported, intended for the private information of the above-named party, is limited to the sample(s) described; accordingly, any user of this report agrees that Halliburton shall not be liable for any loss or damage, regardless of cause, including any act or omission of Halliburton, resulting from the analysis and report.  

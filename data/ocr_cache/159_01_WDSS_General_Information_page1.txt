@@ -1,0 +1,91 @@
+NORWEGIAN PETROLEUM DIRECTORATE
+
+WELL ID: 7/11-3 COORDINATES: 57°02'59"N 02°28'19"E LICENSEE: Phillips-group
+
+LICENSE NO: 018 KBE:27 M WD: 79 M PERMIT NO 20 PERMIT DATE 24.10.68 T D 3351 M
+
+OPERATOR: Phillips CONTRACTOR: Odeco Inc. RIG: Ocean Traveler
+
+SPUD DATE 17.10.68 COMPLETION DATE 11.2.69 STATUS P + A BHT 103.3 °C
+
+FMTN AT T D Tertiary PROD FMTN PROD FMTN
+
+FIELD: Cod CLASSIFICATION: Outpost
+
+CASING RECORD
+
+|  | DIA. INCH | DEPTH BELOW | HOLE SIZE | DEPTH BELOW |
+| --- | --- | --- | --- | --- |
+|  |  | KB - METRES | DIA-INCH | KB - METRES |
+| SFC CGS | 20 | 176 | 26" | 172 |
+| INT CGS | 13 3/8 | 496 | 17 1/2 | 511 |
+| INT CGS | 9 5/8" | 1973 | 12 1/4 | 1994 |
+| INT CGS |  |  |  |  |
+| INT CGS |  |  |  |  |
+| PROD CGS | 7 | 3341 | 8 1/2 | 3351 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+CORES
+
+| NOS OF CORES | TOTAL METRES | REC METRES |
+| --- | --- | --- |
+| 3 Conventional | 103 between | 36.5 |
+|  | 3075.0 and 3178.0 |  |
+
+LOGS RUN
+
+| TYPE | INTERVAL METR. |
+| --- | --- |
+| IES | 1972-3351 |
+| SGR-C | 494-3351 |
+| GR | 91-494 |
+| LL-7 | 2927-3351 |
+| MLL-C | 2927-3351 |
+| FDC | 2927-3351 |
+| SNP | 2927-3299 |
+| CBL | 1951-3292 |
+| CDM | 2920-3349 |
+| SRS | 494-3351 |
+| SP | 1974-3351 |
+| MUD | 524-3351 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+DST AND WIRELINE TESTS
+
+| TYPE | INTERVAL METRES | REC | STATIC BHP | FFP | TEMP°C |
+| --- | --- | --- | --- | --- | --- |
+| DST | 3241-3247 | 88 b d+w+m | 5033 | 3952 |  |
+| DST | 3211-3233 | 91 b d+w+m | 5420 | 4188 |  |
+| DST | 3180-3203 | 91 b d+w+m | 5510 | 4019 |  |
+| DST | 3161-3173 | 89 b d+w+m | 5473 | 4067 |  |
+| DST | 3127-3145 | 90 b d+w+m |  |  |  |
+| DST | 3097-3111 | 154 b d+w+m | 5331 | 4491 |  |
+| DST | 3087-3093 | 120 mcfd g |  |  |  |
+|  |  | 90 pbd o |  |  |  |
+|  |  | 340 b w | 5306 | 3532 |  |
+| DST | 3037-3046 | - | 3906 | 3644 |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+DEVIATION
+
+| DEPTH METRES | DEG |
+| --- | --- |
+| 2152 | 3.0 |
+| 2924 | 3.7 |
+| 3005 | 3.1 |
+| 3105 | 2.6 |
+| 3218 | 2.7 |
+| 3293 | 2.5 |
+| 3348 | 2.5 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+MISC:

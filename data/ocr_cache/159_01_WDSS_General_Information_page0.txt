@@ -1,0 +1,42 @@
+```markdown
+WELL NO 7/11-3 OPERATOR PHILLIPS
+
+| T.D. | 3351 M |
+| --- | --- |
+| K.B. | 27 M |
+| W.D. | 79 M |
+
+GENERALIZED GEOLOGY
+
+| KB | DEPTH IN |
+| --- | --- |
+| SAMPLES START | 100 m | 1000 ft |
+| AT 1720 |  |  |
+
+Mid Mio
+
+TERTIARY
+
+Cong Ss Slts
+
+Mdst Sh Carb
+
+Marl Chalk Ls
+
+Dol Anhy Salt
+
+Coal/ Ign/ Macrofossil
+lig Meta
+
+Cored
+
+1cm = 250 m
+
+1cm = 820 ft
+
+Nov.1975
+
+STATENS OLJEDIREKTORAT
+
+LAGARDSVN 80 · BOKS 800 · 4001 STAVANGER · TLF 33 160
+```

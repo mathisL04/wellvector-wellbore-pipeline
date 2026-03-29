@@ -1,0 +1,11 @@
+```markdown
+DRILLING FLUID SUMMARY
+
+| Well: | 7/11 - 1X |
+| --- | --- |
+| Field: | Cod |
+| Rig: | Ocean Viking |
+| Date: | 25 February 1968 |
+|  | 15 June 1968 |
+| Prepared: | by R. F. Wally |
+```

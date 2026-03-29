@@ -1,0 +1,24 @@
+```markdown
+bbls water-cut mud. Lowest Cl⁻⁻⁻−² 67,000 ppm. IFP₁ 3950, IFP₂ 3885, ISIP 5525, FFP₁ 3926, FFP₂ 4019, FSIP 5510.
+
+DST No. 4, 10369 - 10408' (30' perforated): IF 15 min, ISIT hrs 30 min, FF 9 hrs 45 min, FSI 3 hrs 25 min. Reversed out 89 bbis: 65 bbls diesel, 5 bbls diesel-cut mud, 17 bbis water, 2 bbls water-cut mud. Lowest Cl⁻⁻⁻−² 38,000 ppm. IFP₁ 3825, IFP₂ 3810, ISIP 5489, FFP₁ 3800, FFP₂ 4067, FSIP 5473.
+
+DST No. 5, 10255 - 10315' (60 'perforated): IF 16 min, ISI 5 hrs 9 min, FF 13 hrs 30 min, FSI 4 hrs 8 min. Reversed out 90 bbls: 66 bbls diesel, 5 bbls diesel-cut mud, 15 bbls water, 4 bbis water-cut mud. Lowest Cl⁻⁻⁻−² 30,000 ppm. Stuck packer, unable to retrieve pressure recorder.
+
+DST No. 6, 10158 - 10203' (45' perforated): IF 15 min, ISI 2 hrs 53 min, FF 3 hrs 53 min, FSI 2 hrs 49 min. Flowed at rate of 1032 BPD, recovered 154 bbis: 88 bbls diesel, 3 bbls diesel-cut mud, 56 bbis water, and reversed out 88 bbls water. Lowest Cl⁻⁻⁻−² 18,500 ppm. IFP₁ 3815, FIFP₁ 3943, ISIP 5513, IFP₂ 4049, FFP₂ 4491, FSIP 5331.
+
+DST No. 7, 10125 - 10145' (20' perforated): IF 15 min, ISI 1 hr 48 min, FF 18 hrs 10 min. Flowed through ½" choke at rate of 120 MCFGPD, 90 BPD green-black 47° API oil, 340 BPD water lowest Cl⁻⁻⁻−² 15,400 ppm. IFP₁ 3734, FIFP₁ 3789, ISIP 5541, IFP₂ 3832, FFP₂ 3532, FSIP 5306.
+
+DST No. 8, 9960 - 9990' (30' perforated): IF 15 min, ISI 2 hrs 57 min, FF 1 hr, FSI 1 hr 30 min. IFP₁ 3647, FIFP₂ 3639, FFP₂ 3644, FSIP 3906.
+
+In this report the Paleocene is re-defined and divided into two formations and members according to correlations made between the three Cod wells: the Upper Paleocene Cod formation and the Lower Paleocene Danian unnamed limestone-sand-shale formation. The vertical distribution of tests in the Cod formation and comparison with those in the 7/11-1X and 2X wells is made under Prospect Geology, Test Results.
+
+- Plugging and Abandonment -
+
+The 7-inch casing was plugged as follows:
+
+| 9990 - 9840 feet RKB: | Cement plug set above final perforations. |
+| --- | --- |
+| 8749 feet RKB: | Set Baker Model M bridge plug. |
+| 5000 feet RKB: | Set Baker Model K cement retainer-bridge plug; squeezed 25 sacks cement into 7" - 9 5/8" annulus through perforations between 5015 - 5017 feet. |
+```

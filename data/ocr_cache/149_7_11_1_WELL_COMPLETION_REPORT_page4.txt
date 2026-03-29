@@ -1,0 +1,44 @@
+```markdown
+CONFIDENTIAL
+
+Mud Program:
+
+| Depth: | Weight (ppg) | Viscosity: | PV: | YP: | Water Loss: |
+| --- | --- | --- | --- | --- | --- |
+| 0 - 4000 feet | 9.0 | 40 | 10 | 15 | 18 |
+| (0 - 1219 meters) |  |  |  |  |  |
+| 4000 - 6500 feet | 9.5 | 60 | 20 | 25 | 12 |
+| (1219 - 1981 meters) |  |  |  |  |  |
+| 6500 - 8100 feet | 11.6 | 60 | 25 | 30 | 16 |
+| (1981 - 2469 meters) |  |  |  |  |  |
+| 8100 - 9500 feet | 12.5 | 50 | 35 | 40 | 10 |
+| (2469 - 2896 meters) |  |  |  |  |  |
+| 9600 - 10300 feet | 13.0 | 50 | 25 | 25 | 6 |
+| (2926 - 3139 meters) |  |  |  |  |  |
+| 10300 - 13036 feet | 12.0 | 40 | 20 | 4 | 8 |
+| (3139 - 3974 meters) |  |  |  |  |  |
+
+A Drispac-Floaal-Desco mud system was used to a depth of 10,795 feet. At this depth the system was converted to a sodium chloride-saturated Drispac-Flosal-Desco system. The saltsaturated system was used to total depth.
+
+Logging Program:
+
+| Schlumberger Tools: | Run: | Interval: |
+| --- | --- | --- |
+| Induction Electric | 1 | 1483 - 5066 feet |
+|  | 2 | 4850 - 6513 " |
+|  | 3 | 6444 -10328 " |
+| Gamma Ray/Sonic-Caliper | 1 | 1483 - 6503 feet |
+|  |  | Gamma Ray to subsea |
+|  | 2 | 6444 -10230 feet |
+|  | 3 | 10250 -13020 " |
+| Laterolog | 1 | 10249 -13022 feet |
+| Microlaterolog - Caliper | 1 | 1483 - 6513 feet |
+| Microlaterolog/Microlog-Caliper | 1 | 6444 -10244 feet |
+| Microlog-Caliper | 1 | 10250 -13023 feet |
+| Formation Density | 1 | 6444 -10246 feet |
+|  | 2 | 10249 -13022 " |
+| Neutron | 1 | 6444 -10326 feet |
+| Continuous Dipmeter | 1 | 1483 - 6500 feet |
+|  | 2 | 6444 -10320 " |
+|  | 3 | 10252 -13018 " |
+```

@@ -1,0 +1,145 @@
+```markdown
+# Daily Drilling Report
+
+**Nr.**: 01545
+
+**Report No.**: 86
+
+**Date**: 8-Feb-69
+
+**Operator**: Phillips Pet. Co.
+
+**Contractor**: Odeco Norway Inc.
+
+**Rig No.**: 10
+
+**Lease**: Con. Prospect 7-11
+
+**Field or Dist.**: Norwegian Cont. Shelf North Sea
+
+**County**: Norway
+
+**State**: Norway
+
+## Time Distribution - Hours
+
+| Activity                | Night | Day |
+|-------------------------|-------|-----|
+| Rig Up & Tear Down      |       |     |
+| Drilling Actual         |       |     |
+| Reaming                 |       |     |
+| Conditioning Mud & Circulating |   |     |
+| Trips                   |       |     |
+| Lubricate Rig          |       |     |
+| Deviation Survey       |       |     |
+| Test B.O.P.             |       |     |
+| Cut Off Drilling Line   |       |     |
+| Repair Rig             |       |     |
+| Coring                  |       |     |
+| Wire Line Logging       |       |     |
+| Running Casing & Cementing |   |     |
+| Waiting on Cement       |       |     |
+| Drill Stem Test        |       |     |
+| Other                   |       | 12  |
+| Fishing                 |       |     |
+| A. Perforating        |       |     |
+| B. Tubing Trips         |       |     |
+| C. Swabbing            |       |     |
+| D. Testing              |       |     |
+| E. Additional          |       |     |
+| Totals                  |       | 12  |
+| TIME SUMMARY        |       |     |
+| (OFFICE USE ONLY)     |       |     |
+| Day Work                |       |     |
+| Hrs. W/DP               |       |     |
+| Hrs. W/O DP            |       |     |
+| Hrs. Standby           |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+|                        |       |     |
+| Present Length         |       |     |
+| Ton MLR Trips            |       |     |
+| Since Last Cut          |       |     |
+| Cumulative Total MLR Trips |     |     |
+| No of Days              |       |     |
+| From Spud               |       |     |
+| Cumulative Rotating Hrs   |       |     |
+
+## Drilling Assembly
+
+| NO.          | STANDS D.P. | FT. | BIT NO. |           |       |
+|--------------|-------------|-----|---------|-----------|-------|
+|              | SINGLES D.P.| FT. | SIZE |           |       |
+|              | D.C.        |     | MFG.   | B Widgets |       |
+|              | I.D., O.D.  | FT. | TYPE  |           |       |
+|              | D.C.        |     | NOZZLE| No       |       |
+|              | I.D., O.D.  | FT. | SIZE  |           |       |
+|              | STB.        | FT. | SERIAL NO.|      |       |
+|              | BODY O.D.   | FT. | DEPTH OUT |       |       |
+|              | RMR.        | FT. | BODY O.D. |       |       |
+|              | SUBS        | FT. | O.D. |           |       |
+|              |             |     | NR Down      |       |       |
+|              | BIT OR C.B. | FT. | TOTAL FTG. |       |       |
+|              |             |     | TOTAL HR. RUN |       |       |
+|              |             |     | TOTAL       |       |       |
+| WT. OF STRING |             | LBS.| Reamer Type |      |       |
+
+## Bit Record & Mud Record
+
+| Bit Record   |           | Mud Record   |             |         |
+|--------------|-----------|--------------|-------------|---------|
+|              |           | TIME         |             |         |
+|              |           | WEIGHT       |             |         |
+|              |           | VIS.-SEC    |             |         |
+|              |           | W.L.-C.C.   |             |         |
+|              |           | F.L.T.R. CK.|              |         |
+|              |           | PH           |             |         |
+|              |           |              |             |         |
+
+## Mud & Chemicals Added
+
+| TYPE        | AMT. | TYPE | AMT. |
+|-------------|------|------|------|
+|                     |         |           |         |
+
+## Footage
+
+| FROM         | TO           |    |     |               |
+|--------------|--------------|----|-----|--------------|
+| DRILLING ASSEMBLY |        |     | CORE        |             |
+| AT END OF TOUR     |         | DR.|      NO.           |     | FORMATION      |
+|                    |          | CORE |                |      | ROTARY       |
+|                    |          | CORE - C        | (SHOW CORE RECOVERY) | RPM |              |
+|                    |          |                 |                      |      | WT.     |
+|                    |          |                 |                      | ON |           |
+|                    |          |                 |                      | BIT |           |
+|                    |          |                 |                      | 1000 ft.|       |
+|                    |          |                 |                      |       | PUMP       |
+|                    |          |                 |                             |
+|                    |          |                 |                             |
+|                    |          | DEVIATION       |                             |
+|                    |          | RECORD          | DEPTH                           |
+|                    |          |                |DEVIATION |
+|                    |          |                |DIRECTION |
+
+## Time Log
+
+| FROM | TO | ELAPSED TIME |
+|------|----|--------------|
+| 2400 | 2400 | 12 |
+
+## Details of Operations in Sequence and Remarks
+
+|]
+
+```

@@ -1,0 +1,45 @@
+```markdown
+DATE 22 Nov 1968
+
+| TEST AREA | CORE NO. 2 |
+| --- | --- |
+| Norway North Sea | SHEET NO. 1 |
+|  | WELL NO 7/11-3X |
+|  | GEOLIST J.G. Estill |
+|  | P.H.S. Maquire |
+
+PHILLIPS PETROLEUM CO.
+
+CORE DESCRIPTION
+
+SCALE 1:100
+
+3 inches = 25 feet
+
+LITHOLOGICAL SYMBOLS AS ON 1:500 SCALE GEOLOGICAL LOG
+
+| DEPTH IN FEET | LOG | DESCRIPTION | REMARKS |
+| --- | --- | --- | --- |
+|  |  | Core #2 |  |
+|  |  | 10,147' - 10,192' rec. 40' (90%) |  |
+| 10,147' |  | Sh, gry, hd. |  |
+| 10,150 |  | Ss, lt gry brn, f-m gr, sub ang-sub r, unsort, mass, fri-folly cmtd, sl dolcic, sl argil, f mic, gr fros, fr glau, f por. |  |
+|  |  | Sh, gry brn, hd. |  |
+|  |  | Ss aa & sh lt brn finely inbed w/coal & carb mat, blk, se cross bedding. |  |
+| 10,1 |  | ss, lt gry brn, f-m gr, sub ang-sub r, unsort, fri-slemttd, sl calc, f mic, gr elr-fras, good por. |  |
+|  |  | 10,160, sh, dk brn, mic, sl slty. |  |
+|  |  | 10,161, ss, lt brn gry, f-ers gr w/babs of sh & glz, dk brn, ss is hel, cmtd calc, poor por. |  |
+| 10,170 |  | 10,169 ss, lt brn gry, f-m gr, sub ang-sub r, unsort, fri- sl cmtd, vsl calc, mass, gr fros-elr-brn, f mic f-g por |  |
+|  |  | ss aa w/ thin beds of sh, gry hd w/sks, |  |
+| 10,190 |  | ss aa w/ strings of lig a carb mat, cross bedded, |  |
+|  |  | ss, lt brn gry, f-m gr aa, fri, f-g por. |  |
+| 10,190 |  | Possible 4' depth correction due to Bumper Sub would put base of cored interval at 10,188'. |  |
+|  |  | Shale breaks in core No. 2 interval. |  |
+|  |  | 10150.2 - 50.3 ft. |  |
+|  |  | 10151.5 - 51.8 ft. |  |
+|  |  | 10153.2 - 55.8 ft.) 2.6 ft. th. |  |
+|  |  | 10177.0 - 78.6 ft.) 1.6 ft. th. |  |
+|  |  | 10179.9 - 80.0 ft. |  |
+|  |  | 10182.3 - 82.5 ft. |  |
+|  |  | 10183.0 - 83.3 ft. |  |
+```

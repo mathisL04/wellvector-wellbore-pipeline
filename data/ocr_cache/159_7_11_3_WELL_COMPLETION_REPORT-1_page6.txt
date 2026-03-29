@@ -1,0 +1,28 @@
+- 5 -
+CONFIDENTIAL
+
+# GEOLOGY
+
+Stratigraphic Units
+
+| Unit | Depth RKB |  | Sea Level |  | Drilled Thickness |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Meters | Feet | Meters | Feet | Meters | Feet |
+| QUATERNARY |  |  |  |  |  |  |
+| Recent | 106 | 347 | - | 79 - 260 | ± 442 | ± 1453 |
+| Pleistocene |  |  |  |  |  |  |
+| TERTIARY |  |  |  |  |  |  |
+| Upper Pliocene | 549 ± 1800 |  | - | 522 - 1713 | ± 247 | ± 810 |
+| Lower Pliocene | 796 | 2610 | - | 769 - 2523 | 73 | 240 |
+| Upper Miocene | 869 | 2850 | - | 842 - 2763 | 71 | 232 |
+| Middle Miocene | 939 | 3082 | - | 913 - 2995 | 661 | 2168 |
+| Lower Miocene |  |  |  |  |  |  |
+| Burdigalian | 1600 | 5250 | - | 1574 - 5163 | 213 | 699 |
+| Aquitanian | 1813 | 5949 | - | 1787 - 5862 | 259 | 849 |
+| Oligocene | 2072 | 6798 | - | 2046 - 6711 | 741 | 2432 |
+| U?-M? Eocene | 2813 | 9230 | - | 2787 - 9143 | 166 | 544 |
+| L?Eocene-?Paleocene | 2979 | 9774 | - | 2953 - 9687 | 53 | 174 |
+| Paleocene | 3032 | 9948 | - | 3006 - 9861 | 301 | 988 |
+| Lower Paleocene |  |  |  |  |  |  |
+| Danian | 3333 | 10936 | - | 3307 - 10849 | 17+ | 56+ |
+| (Total Depth) | 3350 | 10992 | - | 3324 - 10905 | - | - |

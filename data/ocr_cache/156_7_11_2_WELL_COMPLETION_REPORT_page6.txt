@@ -1,0 +1,26 @@
+CONFIDENTIAL
+
+In the Well Completion Report on 7/11-1X, the total Paleocene including the Danian was divided into three sections in regard to testing results: an upper section (DST No. 5), a middle section (DST No. 4 and No. 3), and a lower section (DST No. 2 and No. 1) identified with the Danian only. The lower section contains considerable limestone and minor sand and shale as compared to the middle section which is predominantly sand and shale. Correspondence between the tested zones of both 7/11-1X and 7/11-2X, and a further distinction can be made, subdividing the lower section, as follows:
+
+|  | 7/11-1X | 7/11-2X |
+| --- | --- | --- |
+| Upper section: | DST No. 5 | DST No. 3 |
+| Middle section | DST No. 4 | DST No. 2 |
+|  | DST No. 3 |  |
+| Lower section | No tests | DST No. 1 |
+| Danian section | DST No. 2 | No tests |
+|  | DST No. 1 |  |
+
+The Danian in 7/11-2X did not evidence the degree of sandiness and shows characteristic of the Danian in 7/11-1X. Consequently, no tests were made of it. DST No. 1 tested a probably hydrocarbon-bearing section in the lower sandstone which, however, was tight. DST No. 2 tested the main or middle hydrocarbon-bearing section of the Paleocene. It is evident by log correlation that DST No. 2, 7/11-2X covered an interval which brackets more than the equivalent intervals in the 7/11-1X well tested by DST No. 4 and No. 3. Although the results of DST No. 2, 7/11-2X were comparable to those of DST No. 4, 7/11-1X, in volumes produced, it is probable that several different reservoirs were tested at once in light of the datum pressure differences determined for the 7/11-1X tests. DST No. 3 tested the upper section which was tight.
+
+- Plugging and Abandonment -
+
+The 9-5/8-inch casing was plugged as follows:
+
+9505 - 9705 feet RKB: Cement plug set above final perforations with 70 sacks Class "B" cement above retainer.
+
+3850 - 4000 feet RKB: Cement plug laid above cement retainer at 4004 feet with 52 sacks Class "B" cement.
+
+680 - 980 feet RKB: Laid cement plug with 104 sacks Class "B" cement.
+
+Installed corrosion cap and abandoned well.

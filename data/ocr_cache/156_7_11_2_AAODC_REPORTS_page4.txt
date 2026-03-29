@@ -1,0 +1,121 @@
+```markdown
+Nr. 01252
+
+DAILY DRILLING REPORT REPORT NO. 85 DATE 10-14-68
+
+| OPERATOR | LEASE | WELL NO. | FIELD OR DIST. | COUNTY | STATE |
+| --- | --- | --- | --- | --- | --- |
+| Phillips Pet Co. | Cod Prospect | 2-X | Norwegian Cont Shelf | NORTH SEA | NORWAY |
+| CONTRACTOR | RIG NO. | DRILL-PIPE | TOOL JOINT | PUMPS | LAST CASING |
+| ODENORWAY Inc. | 90 | STRING | O.D. | NO. | MANUFACTURER | TYPE | STROKE LENGTH | TUBING |
+|  |  | NO. | SIZE |  |  |  |  | OR LINER |
+| SIGNATURE OF OPERATORS REPRESENTATIVE |  | 7" | 5 3/8" TYPE THD. 5XH | 1. | NATIONAL | N-1300 | 16" | 13 3/4" | 133 | 3.0 | 1239 | 340'158" |
+| E.O. Skeeb | SIGNATURE OF CONTRACTOR'S TOOL PUSHER |  |  | 2. | " | N-1300 | 16" | 13 3/4" | 68 | 152" | 6046 | 338'638" |
+|  | R. McVay |  |  | 3. | G.D. | FX8 | 16" | 9 3/4" | 4.7 | 251 | 10168 | 342'050" |
+
+TIME DISTRIBUTION-HOURS
+
+|  | NIGHT | DAY |
+| --- | --- | --- |
+| RIG UP & TEAR DOWN |  |  |
+| DRILLING ACTUAL |  |  |
+| REAMING |  |  |
+| CONDITIONING MUD & CIRCULATING |  |  |
+| TRIPS |  |  |
+| LUBRICATE RIG |  |  |
+| DEVIATION SURVEY |  |  |
+| TEST B.O.P. |  |  |
+| CUT OFF DRILLING LINE |  |  |
+| REPAIR RIG |  |  |
+| CORING |  |  |
+| WIRE LINE LOGGING |  |  |
+| RUNNING CASING & CEMENTING |  |  |
+| WAITING ON CEMENT |  |  |
+| DRILL STEM TEST |  |  |
+| OTHER |  |  |
+| FISHING |  |  |
+| COMPLETION WORK |  |  |
+| A. PERFORATING |  |  |
+| B. TUBING TRIPS |  |  |
+| C. SWABBING |  |  |
+| D. TESTING |  |  |
+| E. ADDITIONAL |  |  |
+| TOTALS |  |  |
+| TIME SUMMARY (OFFICE USE ONLY) |  |  |
+| DAY WORK |  |  |
+| HRS. W/DP |  |  |
+| HRS. WO/DP |  |  |
+| HRS. STANDBY |  |  |
+| REEL NO. |  |  |
+| NO. OF LINES 10 SIZE 1/8 |  |  |
+| FEET SLIPPED |  |  |
+| FEET CUT OFF 94 |  |  |
+| PRESENT LENGTH 7404 |  |  |
+| TON M. OR TRIPS SINCE LAST CUT 1350 |  |  |
+| CUMULATIVE TON M. OR TRIPS 3500 |  |  |
+| NO. OF DAYS FROM SPUD 84 |  |  |
+| CUMULATIVE ROTATING HRS. |  |  |
+
+NO. DRILLING ASSEMBLY AT END OF TOUR
+
+|  |  | BIT RECORD | MUD RECORD | FOOTAGE | DR.D RM.R CORE NO. | FORMATION (SHOW CORE RECOVERY) | ROTARY RPM | WT. ON BIT 1000# | PUMP PRESS | PUMP NO. | PUMP NO. | METHOD RUN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STANDS D.P. | FT. | BIT NO. | TIME | FROM | TO |  |  |  | LINER SIZE | S.P.M. | LINER SIZE | S.P.M. |
+| SINGLES D.P. | FT. | SIZE | WEIGHT |  |  |  |  |  |  |  |  |  |
+| D.C. |  | MFG. | VISG.-SEC |  |  |  |  |  |  |  |  |  |
+| I.D. O.D. | FT. | TYPE | W.L.-C.C. |  |  |  |  |  |  |  |  |  |
+| D.C. |  | NOZZLE | FLTR. CK. | DEVIATION RECORD | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION | DEPTH | DEV. |
+| I.D. O.D. | FT. | NO. | PH |  |  |  |  |  |  |  |  |  |
+| STB. BODY O.D. | FT. | SIZE | SD. CONT. % |  |  |  |  |  |  |  |  |  |
+| STB. BODY O.D. | FT. | SER. NO. |  |  |  |  |  |  |  |  |  |  |
+| RMK. BODY O.D. | FT. | DEPTH OUT |  |  |  |  |  |  |  |  |  |  |
+| SUBS | O.D. | FT. | DEPTH IN |  |  |  |  |  |  |  |  |  |
+| TOTAL FTG. |  |  |  |  |  |  |  |  |  |  |  |  |
+| BIT OR C.B. | FT. |  | MUD & CHEMICALS ADDED |  |  |  |  |  |  |  |  |  |
+|  |  |  | TYPE | AMT. | TYPE | AMT. |  |  |  |  |  |  |  |
+| TOTAL HR. RUN |  |  |  |  |  |  |  |  |  |  |  |  |
+| KELLY DOWN | FT. | COND. OF BIT |  |  |  |  |  |  |  |  |  |  |
+| TOTAL | FT. | REAMER NO. |  |  |  |  |  |  |  |  |  |  |
+| WT. OF STRING | LBS. | REAMER TYPE |  |  |  |  |  |  |  |  |  |  |
+
+REMARKS
+
+DRILLER
+
+NO. DRILLING ASSEMBLY AT END OF TOUR
+
+|  |  | BIT RECORD | MUD RECORD | FOOTAGE | DR.D RM.R CORE NO. | FORMATION (SHOW CORE RECOVERY) | ROTARY RPM | WT. ON BIT 1000# | PUMP PRESS | PUMP NO. | PUMP NO. | METHOD RUN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STANDS D.P. | FT. | BIT NO. | TIME | FROM | TO |  |  |  | LINER SIZE | S.P.M. | LINER SIZE | S.P.M. |
+| SINGLES D.P. | FT. | SIZE | WEIGHT |  |  |  |  |  |  |  |  |  |
+| D.C. |  | MFG. | VISG.-SEC |  |  |  |  |  |  |  |  |  |
+| I.D. O.D. | FT. | TYPE | W.L.-C.C. |  |  |  |  |  |  |  |  |  |
+| D.C. |  | NOZZLE | FLTR. CK. | DEVIATION RECORD | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION | DEPTH | DEV. |
+| I.D. O.D. | FT. | NO. | PH |  |  |  |  |  |  |  |  |  |
+| STB. BODY O.D. | FT. | SIZE | SD. CONT. % |  |  |  |  |  |  |  |  |  |
+| STB. BODY O.D. | FT. | SER. NO. |  |  |  |  |  |  |  |  |  |  |
+| RMK. BODY O.D. | FT. | DEPTH OUT |  |  |  |  |  |  |  |  |  |  |
+| SUBS | O.D. | FT. | DEPTH IN |  |  |  |  |  |  |  |  |  |
+| TOTAL FTG. |  |  |  |  |  |  |  |  |  |  |  |  |
+| BIT OR C.B. | FT. |  | MUD & CHEMICALS ADDED |  |  |  |  |  |  |  |  |  |
+|  |  |  | TYPE | AMT. | TYPE | AMT. |  |  |  |  |  |  |
+| TOTAL HR. RUN |  |  |  |  |  |  |  |  |  |  |  |  |
+| KELLY DOWN | FT. | COND. OF BIT |  |  |  |  |  |  |  |  |  |  |
+| TOTAL | FT. | REAMER NO. |  |  |  |  |  |  |  |  |  |  |
+| WT. OF STRING | LBS. | REAMER TYPE |  |  |  |  |  |  |  |  |  |  |
+
+REMARKS
+
+DRILLER
+
+TIME LOG ELAPSED TIME DETAILS OF OPERATIONS IN SEQUENCE AND REMARKS
+
+| FROM | TO | TIME |
+| --- | --- | --- |
+| 2400 | 1200 | 12 | WAIT ON WEATHER |
+| 1200 | 1230 | 1/2 | W.O.W. |
+| 1230 | 1900 | 6 1/2 | Pumping up rig. present draft @ 18' Took on toe lines from w/1"=2 Tugs. |
+| 1900 | 2400 | 5 | Pulling barge anchors. 10 4's secured. Pulling up. Started string up now guide wire cables. (5/8" wire) |
+
+A.A.O.D.C--A.P.I. OFFICIAL DAILY DRILLING REPORT FORM
+```

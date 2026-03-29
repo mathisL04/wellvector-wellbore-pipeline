@@ -1,0 +1,32 @@
+```markdown
+Casing was cut as follows:
+
+| RKB | Casing Size |
+|-----|-------------|
+| 370 feet | 7-inch      |
+| 365 feet | 9 5/8-inch  |
+| 349 feet | 13 3/8-inch |
+| 340 feet | (sea floor) |
+
+(sea floor): 20-inch
+
+A cement plug was laid from sea floor to 640 feet RKB.
+
+# OBJECTIVES
+
+The objectives of the 7/11-3X were to test the hydrocarbon potential of the Tertiary section, specifically the Paleocene sandstones productive in 7/11-1X and 7/11-2X, and the top of the Danian limestone.
+
+Corolary objectives were to find a suspected oil ring and to establish the gas-water contact and the productive limits of the Cod Field.
+
+# GEOLOGY
+
+## Regional Geology
+
+The Cod Field lies in the axis of the present-day maximum depression of Tertiary section as evidenced by structure mapped seismically on the base of the Tertiary (Figure 1). The Cod structure is one of an en-echelon series of slightly elongated salt-intruded anticlines which parallel the trend of the axis along its course. Most of the basinally central anticlines including Cod are intruded by Permian salt up to, or close to, the base of the Upper Cretaceous Chalk. Older sediments are not preserved over the crests of the salt intrusions except in basin flank positions at shallower Tertiary depths as, for example, the Amberjack structure on Block 16/11. The apparently significant coincidence of Paleocene producing sands at Cod with the axis of greatest Tertiary depression is referred to further in the concluding paragraphs under Stratigraphy.
+
+## Prospect Geology and Results
+
+### Structure
+
+The Cod 7/11-3X well was drilled on the southeast flank of the structure, three kilometers due southeast of 7/11-1X. Geophysical reinterpretation of the structure, concurrent with the drilling of the well, resulted in a conception of increased areal closure on the top of the Paleocene as compared with the conception of the closure when 7/11-1X and 2X were drilled. Hydrocarbon-bearing closure, however, is less than total structural closure.
+```

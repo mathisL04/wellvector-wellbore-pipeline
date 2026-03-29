@@ -1,0 +1,45 @@
+CONFIDENTIAL
+
+NOR/D&P-Well 7/11-2x
+
+July 10, 1968
+
+PHILLIPS 7/11-2x, COD PROSPECT
+
+GEOLOGIC PROGNOSIS
+
+LOCATION: Field 7, Block 11, Production License 018; 57° 04':00" N.,
+
+02° 24' 20" E; S.P. 1248, Line NJV 5704
+
+PROPOSED T.D.: 11,135' (3394m) WATER DEPTH (MSL): - 257 (78m)
+
+RKB (MSL): +90' (27m) SEA FLOOR (RKB): 347 (105m)
+
+EXPECTED GEOLOGIC SECTION
+
+xx. SEISMIC REFLECTORS
+
+(x. objective zone) & (estim obj sand thicknesses)
+
+| FORMATION | ESTIM TOP RKB, FT(M) | EXPECTED LITHOLOGY |
+| --- | --- | --- |
+| Recent-Pleist |  | sands, gravel |
+| Pliocene |  | clays, shales |
+| Miocene |  | " ", Thin ls |
+| x Oligocene | 6600 (2012) | (x) sandstone; clays |
+| (x. 150') |  |  |
+| Eocene | 8800 (2682) | clays, thin sands |
+| x Paleocene (xx GREEN) | 9775 (2979) | (x) sandstone; & shale,w/ |
+| (x. 800' gross) |  | intbdd limestones lower 300' |
+| U. Cret. (xx YELLOW) | 11135 (3394) | limestone |
+| Total depth | 11135 (3394) or, | drill 100' into limestone |
+
+CASING PROGRAM
+
+| SIZE | APPROS. DEPTH RKB FT. (M) | ESTIM FM SET IN |
+| --- | --- | --- |
+| 30" | 425 (130) | Recent |
+| 20" | 1500 (457) | Pleist. - Pliocene |
+| 13 3/8" | 6500 (1981) | Oligocene |
+| 9 5/8" | 11,135 (3394) | Upper Cretaceous |

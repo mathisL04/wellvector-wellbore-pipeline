@@ -1,0 +1,34 @@
+```markdown
+WELL: 7/11-3X
+Field: Cod
+15 OKT. 1968 - 12 JAN. 1969 - 94 Days
+
+R. R. Co.- luoVw1y
+
+
+| WELL RECAP |
+| --- |
+| | | Sat. Salt | |
+| | MUD TYPE | Starch-Dispine | Starch-CMC |  |  |
+| 2 | MUD WEIGHT | 9.8-12.5 | PPg | 11.9-14.5 | 9.8-14.5 |  |  |
+| 3 | INTERVAL EXAMINED | 1527-6471 | ft | 6471-10,960 | 1527-10,960 |  |  |
+| 4 | TOTAL FOOTAGE | 4944 | ft | 4489 | 9433 |  |  |
+| 5 | HRS DRILLING | 36.5 | hrs | 200 | 236.5 |  |  |
+| 6 | PENETRATION (4÷5) | 135.4 | ft/hr. | 22.4 | 39.9 |  |  |
+| 7 | MUD COST (1973) | $45,768 | (CURRENT |
+| 8 | MUD COST/FT (7÷4) | $9.26 | £/ft | 17.29 | 13.08 |  |  |
+| 9 | HRS. CONDITIONING HOLE | 53 | hrs | 101 | 154 |  |  |
+| 10 | CONDITIONING COST (£ X | $100,700 | R9cost) |
+| 11 | CONDITIONING COST/FT (10÷4) | 20.37 | £/ft | 42.75 | 31.02 |  |  |
+| 12 |  | 01 NOV. 1968 | 02 DEC. 1968 | 02 DE8. 1968 |  |  |
+| 13 | ROTATING COST (5XRIG COST) | $69,350 | 380,000 | $49,350 |  |  |
+| 14 | ROTATING COST/FT (13÷4) | $14.03 | £/ft | 84.65 | 47.64 |  |
+| 15 | FISHING HRS | — | hrs | 11.5 | 11.5 |  |  |
+| 16 | FISHING COST (15X RIG COST) | — | $ | 21,850 | 21,850 |  |  |
+| 17 | FISHING COST/FT (15÷4) | — | £/ft | 4.87 | 2.32 |  |  |
+| 18 | TOTAL COST (7+10+13+16) | $146,468 | $ | 671,371 | 687,189 |  |  |
+| 19 | TOTAL COST/FT (18÷4) | $29.63 | s/ft | 149.56 | 94.05 |  |  |
+| 20 | COMMENTS |  | Coned |  |  |  |  |
+
+RIG COST = 19000/HR. 12”/4” 8”½” 3-7 DAYS
+```

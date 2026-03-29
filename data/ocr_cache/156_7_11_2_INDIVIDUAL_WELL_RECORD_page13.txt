@@ -1,0 +1,62 @@
+PETROLEUM COMPANY COMPANY
+
+International E&P Department
+
+A. F. E. No. NW 550
+
+Location Cod Structure, Block 7/11, Well 2X.
+
+Date September 12, 1965
+
+Description of Job: Norwegian Sector of North Sea - Europe
+
+COST ESTIMATE
+
+Supplement No. 1
+
+Work to be done by
+
+| UNIT | CLASS | ITEM | DESCRIPTION | QUAN. | UNIT PRICE | TANGIBLE | INTANGIBLE | TOTAL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | INTANGIBLES: |  |  |  |  |  |
+|  |  |  | Contract Rig | 36 | 11300 |  | 406,800 |  |
+|  |  |  | Supply Boats | 36 | 1600 |  | 57,600 |  |
+|  |  |  | Helicopter Service | 36 | 1850 |  | 66,600 |  |
+|  |  |  | Shorebase | 36 | 25 |  | 900 |  |
+|  |  |  | Diving Service | 36 | 700 |  | 25,200 |  |
+|  |  |  | Mud Logging Service | 36 | 150 |  | 5,400 |  |
+|  |  |  | Cementing Service |  |  |  | 30,000 |  |
+|  |  |  | Logging and Perforating |  |  |  | 50,000 |  |
+|  |  |  | Mud Engineering Service | 36 | 68 |  | 2,448 |  |
+|  |  |  | Bits |  |  |  | 5,000 |  |
+|  |  |  | Mud and Chemicals |  |  |  | 20,000 |  |
+|  |  |  | Weather Service | 36 | 20 |  | 720 |  |
+|  |  |  | Test Equipment Rental Surface | 36 | 25 |  | 900 |  |
+|  |  |  | " " " Sub-Surface | 36 | 12 |  | 432 |  |
+|  |  |  | Misc. Tool Rental & Services | 36 | 450 |  | 16,200 |  |
+|  |  |  | Diesel Fuel | 36 | 630 |  | 22,680 |  |
+|  |  |  | Cut and Patch Tools | 36 | 33 |  | 1,188 |  |
+|  |  |  | Lubricants |  |  |  | 500 |  |
+|  |  |  | Radio Operator Norsco | 36 | 4 |  | 144 |  |
+|  |  |  | Contract Labor | 36 | 200 |  | 7,200 |  |
+|  |  |  | Transportation |  |  |  | 30,000 |  |
+|  |  |  | Harbor and Custom Fees. | 36 | 16 |  | 576 |  |
+|  |  |  | Pilot Fees | 36 | 52 |  | 1,872 |  |
+|  |  |  | Radio Antenna | 36 | 2 |  | 72 |  |
+|  |  |  | Phillips Supervision | 36 | 140 |  | 5,040 |  |
+|  |  |  | District Expense | 36 | 900 |  | 32,400 |  |
+|  |  |  | Test Equipment and Services |  |  |  | 15,000 |  |
+|  |  |  | ORIGINAL ESTIMATE | 1,719,628 |  |  |  |  |
+|  |  |  | SUPPLEMENT NO. 1 | 804,872 |  |  |  |  |
+|  |  |  | TOTAL REVISED ESTIMATE: | 2,524,500 |  |  |  |  |
+|  |  |  | SUPPLEMENT NO. 1 TOTAL |  |  |  | 804,872 |  |
+
+REQUESTED BY A.T. Crump
+
+APPROVED BY
+
+ESTIMATE PREPARED BY J.K. Fetters
+
+CHECKED BY
+
+Form 452 11-62 Reproduction of Standard No. 9.31-1 A 56449

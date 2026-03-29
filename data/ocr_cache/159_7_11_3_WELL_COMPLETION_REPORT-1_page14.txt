@@ -1,0 +1,32 @@
+```markdown
+| L-20 | 010 | The Ministry of Industry |
+| --- | --- | --- |
+| DATE 20/11/68 | PHILLIPS PETROLEUM CO. | CORE NO. 1 |
+| TEST AREA | CORE DESCRIPTION | SHEET NO. 1 |
+| North Sea - Norway | SCALE 1: 100 3 inches = 25 feet | WELL NO.7411/3 |
+|  | LITHOLOGICAL SYMBOLS AS ON 1:500 SCALE GEOLOGICAL LOG | GEOLOGIST J.G. Restill |
+| FORM. | DEPTH | LOG | SH |  | DESCRIPTION | REMARKS |
+|  | IN FEET | DIPS | OW |  |  |  |
+|  |  |  |  |  | or< No10,0031-10,001(Core25'Recovered 25'100%) |  |
+|  |  |  |  |  | 10,086-10,101 Sh, dk gry, hd, v.sIty (grades into |  |
+|  |  |  |  | arg slrst) mic. rare glauc & py, abund carb. inclu, |  |
+|  |  |  |  | Slikenslides |
+|  |  |  |  | w/inb’d ss gry, f/vf gr. sarg, arg. Bed 1"-6"thumbs | noted @ |
+|  |  |  |  | and comprise +20% of intv! |  |
+|  |  |  |  | 10,101-10,102.5 SS, gry, f/v fgr srdf/s arg, m.std |  |
+|  |  |  |  | wheely inclus. dol cl, cm. v glauc (10%-10%), mic |  |
+|  |  |  |  | poor poor pacee perm f dissemm py and Carb Flecks and |  |
+|  |  |  |  | inclusions |  |
+|  |  |  |  | 10,102.5-10111 inb’d ss & Sh aa. but ss is <5% |  |
+|  |  |  |  | of intv !=1" |  |
+|  |  | Dip is uniform 5-70 and the bedding is |  |
+|  |  | Sub plantar. The bottom 1.5" is badly bfeN |  |
+|  |  | Live oil is visible along bedding planes. |  |
+|  |  | The ss has stn yell fluor and flash cut in sly. |  |
+|  | Paleocene SS. | It is banded and appears to be concentrated. |  |
+|  |  | along bedding planes |  |
+|  |  | ID/OLJE |  |
+|  |  | 00987 *-3.12.68 |  |
+|  |  | SAKSB: |  |
+|  |  | ARKIV: |  |
+```

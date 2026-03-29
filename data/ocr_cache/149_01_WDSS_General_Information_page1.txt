@@ -1,0 +1,91 @@
+NORWEGIAN PETROLEUM DIRECTORATE
+
+WELL ID: 7/11-1 COORDINATES: $57^{\circ} 0^{\prime} 4^{\prime \prime} 15.6^{\prime \prime} \mathrm{N} 2^{\circ} 26^{\prime} 24.4^{\prime \prime} \mathrm{E}$ LICENSEE: Phillips group
+
+LICENSE NO: 018 KBE: $27 \mathrm{M}$ W D: $78 \mathrm{M}$ PERMIT NO 10 PERMIT DATE 25.1.68 TD $3974 \mathrm{M}$
+
+OPERATOR: Phillips CONTRACTOR: Odeco Inc RIG: Ocean Viking
+
+SPUD DATE 28.2.68 COMPLETION DATE 15.6.68 STATUS P + A BHT $145.5{ }^{\circ} \mathrm{C}$
+
+FMTN AT T D Permian PROD FMTN PROD FMTN
+
+FIELD: Cod CLASSIFICATION: New Field Wildcat
+
+CASING RECORD
+
+|  | DIA. INCH | DEPTH BELOW | HOLE SIZE | DEPTH BELOW |
+| --- | --- | --- | --- | --- |
+|  |  | KB - METRES | DIA-INCH | KB - METRES |
+| SFC CGS | 30 | 141 | 36 | 141 |
+| INT CGS | 20 | 457 | 26 | 463 |
+| INT CGS | $133 / 8$ | 1965 | $171 / 2$ | 1982 |
+| INT CGS | $95 / 8$ | 3124 | $121 / 4$ | 3145 |
+| INT CGS |  |  |  |  |
+| PROD CGS |  |  |  |  |
+|  |  |  |  |  |
+
+CORES
+
+| NOS OF CORES | TOTAL METRES | REC METRES |
+| --- | --- | --- |
+| 3 conventional | 44.2 between | 20.7 |
+|  | 2923.4 and 2967.6 |  |
+
+LOGS RUN
+
+| TYPE | INTERVAL METR. |
+| --- | --- |
+| IES | 452-3149 |
+| LL | 3125-3970 |
+| MLL-C | 452-3970 |
+| ML-C | 3125-3970 |
+| SGR-C | 452-3970 |
+| FDC | 1965-3970 |
+| SNP | 1965-3148 |
+| CCL. | 2744-3128 |
+| CDM | 452-3970 |
+| TS | 0-3973 |
+| MUD | 141-3659 |
+| CBL | 2165-3124 |
+| Dir | 452-3669 |
+| SRS | 452-3974 |
+| GR | 61-452 |
+|  |  |
+
+DST AND WIRELINE TESTS
+
+| TYPE | INTERVAL METRES | REC | STATIC | FFP | TEMP ${ }^{\circ} \mathrm{C}$ |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | BHP |  |  |
+| DST | 3124-3162 |  | 4930 | 3868 |  |
+| DST | 3102-3109 | $5 \mathrm{mmcfd} \mathrm{g}$ | 3015 | 4097 |  |
+| DST | 2979-2988 | $15.4 \mathrm{mmcfd} \mathrm{g}$ |  | 3842 |  |
+| DST | 2918-2945 | $44.3 \mathrm{mmcfd} \mathrm{g}$ | 5251 | 3897 |  |
+| DST | 2811-2882 | $10.5 \mathrm{mmcfd} \mathrm{g}$ |  |  |  |
+|  |  | $359 \mathrm{bpd} \operatorname{dist}$ | 5177 | 4633 |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+DEVIATION
+
+| DEPTH METRES | DEG |
+| --- | --- |
+| 463 | 1.0 |
+| 1231 | 1.0 |
+| 1982 | 2.25 |
+| 2954 | 4.25 |
+| 3043 | 5.0 |
+| 3291 | 2.5 |
+| 3371 | 2.0 |
+| 3496 | 4.5 |
+| 3963 | 11.5 |
+|  |  |
+|  |  |
+|  |  |
+
+MISC:

@@ -1,0 +1,16 @@
+```markdown
+# SIDEWALL CORES
+
+| No. | Description |
+|-----|-------------|
+| 1   | 9923 - SH, gry-brn |
+| 2   | 9774 - NR |
+| 3   | 9727 - SH, gry-grn w/tr SS, gry-brn, v fg, v shly and friable |
+| 4   | 9670 - SS, gry-brn, v fg, v shly and friable |
+| 5   | 9495 - Lost |
+| 6   | 9457 - SH, gry, mottled |
+| 7   | 9440 - Lost |
+| 8   | 9104 - Lost |
+| 9   | 8288 - SH, gry-brn |
+| 10  | 8154 - SH, gry-brn |
+```

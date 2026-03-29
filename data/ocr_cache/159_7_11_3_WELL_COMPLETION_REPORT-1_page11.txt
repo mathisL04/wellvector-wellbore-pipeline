@@ -1,0 +1,30 @@
+```markdown
+DATE 23 Nov 1968
+
+TEST AREA Norway North Sea.
+
+APPENDIX 1 (3)
+
+PHILLIPS PETROLEUM CO.
+
+CORE DESCRIPTION
+
+CORE NO. 3
+
+SHEET NO 1
+
+WELL NO 7/11-3x
+
+SCALE 1 100
+
+3 inches = 25 feet
+
+LITHOLOGICAL SYMBOLS AS ON 1:500 SCALE GEOLOGICAL LOG
+
+GEOLOGIST P.L.S. Maguire
+
+| DEPT IN:FEET | LOG | $ ISIS ©O | DESCRIPTION | REMARKS |
+| --- | --- | --- | --- | --- |
+|  |  | Hydrogen fluorescence | Core No: 3<br>10,369' - 10,124'<br>re. 55'(100%)<br>ss, lt gry, f-mgr, mass. w/se crs gr & glx pebs, sub r-sub ang, fri, unsort. fr glau. fr carb mat. se mica, se kao. wh. vsl calc, fair por<br>10376 Band of siltstn, dk gry, v carb<br>ss, lt gry, f-mgr, se crs gr & glx pebs, gr clr-fros. gr brn. sub r-sub ang, unsort, mass. fri-phy cmtd. sl calc. fm ic. fr glau. fr kao. fr carb mat a bitu p-f por<br>sh. dk gry. hd. mic. carb<br> very slight dull yellow fluorescence in cc/s<br>ss, lt gry, f-crs gr as above<br>siltstn. dk gry-blk. v carb (thin band) | Core gave off C<sub>1</sub> & C<sub>2</sub> when heated |
+| 10370 |  |  | ss, lt gry, f-mgr, and f-crs gr. mass. w/in fs abund glx pebs, ss is sub r-sub ang, unsort. gr clr-fros-milky w/se gr brn. fri-pHy cmtd, sl calc, sl kao. fr glau. sl mic. fr carb mat a bitu. f por |  |
+```

@@ -1,0 +1,60 @@
+```markdown
+PHILLIPS PETROLEUM COMPANY
+International E&P Department
+COST ESTIMATE
+
+Location 57° 04' 00" N, 02° 24' 30" E, Cod Structure
+Date: June 20 1968
+
+A.F.E. No.
+
+Description of Job: Tow Contractor's rig from Stavanger to location then drill Well 7/11-2X to a depth of 11,145' and fully test.
+
+Work to be done by Contractor - ODECO Norway Inc.'s "Ocean Traveler".
+
+| UNIT | CLASS | ITEM | DESCRIPTION | QUAN. | UNIT PRICE | TANGIBLE | INTANGIBLE | TOTAL |
+|---|---|---|---|---|---|---|---|---|
+| | | | TANGIBLES: | | US $ | US $ | US $ | US $ |
+| | | | Casing: | | | | | |
+| | | 1 | 30" O.D. | 80' | 33.75 | 2700 | | |
+| | | 2 | 20" O.D. | 1500' | 18.75 | 28125 | | |
+| | | 3 | 13_3/8" O.D. | 6500' | 8.25 | 53625 | | |
+| | | 4 | 9_5/8" O.D. | 11145' | 6.50 | 72443 | | |
+| | | 5 | Wellhead & Misc. Subsea Equip. | | | 50000 | | |
+| | | | | | | | | |
+| | | | TOTAL TANGIBLES | | | | | 206,893 |
+| | | | | | | | | |
+| | | | INTANGIBLES: | | | | | |
+| | | 6 | Tow to Location | 8 | 4360 | 34880 | | |
+| | | 7 | Survey | | | 8000 | | |
+| | | 8 | Contract Rig | 65 | 11000 | 715000 | | |
+| | | 9 | Supply Boats | 65 | 1600 | 104000 | | |
+| | | 10 | Helikopter Service | 65 | 1850 | 120250 | | |
+| | | 11 | Shorebase | 65 | 25 | 1625 | | |
+| | | 12 | Diving Service | 65 | 700 | 45500 | | |
+| | | 13 | Mud Logging Service | 65 | 150 | 9750 | | |
+| | | 14 | Cementing Service | | | 60000 | | |
+| | | 15 | Logging and Perforating | | | 100000 | | |
+| | | 16 | Mud Engineering Service | 65 | 68 | 4420 | | |
+| | | 17 | Bits & Core Heads | | | 15000 | | |
+| | | 18 | Mud & Chemicals | | | 100000 | | |
+| | | 19 | Weather Service | 65 | 10 | 650 | | |
+| | | 20 | Test Equipment Rental (Surface) | 65 | 25 | 1625 | | |
+| | | 21 | Test Equipment Rental (Subsurface) | 65 | 12 | 780 | | |
+| | | 22 | Misc. Tool Rental & Services | 65 | 450 | 29250 | | |
+| | | 23 | Casing Accessories | | | 8000 | | |
+| | | 24 | Diesel fuel | 65 | 630 | 40950 | | |
+| | | 25 | Cut & Patch Tools | 65 | 33 | 2145 | | |
+| | | 26 | Lubricants | | | 500 | | |
+
+TOTAL
+
+APPROVED BY
+
+REQUESTED BY
+
+ESTIMATE PREPARED BY
+
+CHECKED BY
+Form 452 11-62 Reproduction of Standard No 9.31-1 A 56449
+```

@@ -1,0 +1,40 @@
+```markdown
+DATE 20/11/68
+
+| TEST AREA | CORE DESCRIPTION |
+| --- | --- |
+| North Sea-Norway | SCALE 1:100 |
+|  | 3 inches = 25 feet |
+|  | LITHOLOGICAL SYMBOLS AS ON 1500 SCALE GEOLOGICAL LOG |
+
+PHILLIPS PETROLEUM CO.
+
+CORE NO. 1
+
+SHEET NO. 1
+
+WELL NO. 7/11/3
+
+GEOLOGIST J.G. Estill
+
+| DEPTH | LOG | DESCRIPTION | REMARKS |
+| --- | --- | --- | --- |
+| IN FEET |  |  |  |
+| Core No. 1:10,000-11 | (Cut 25' Recovered 25' 100%) |  |  |
+| 10,086 |  | 10,086-10,101 Sh, dk gry, hd, v.slg (grades into |  |
+| 90 |  | arg slst) mic, rare glanc & py, abund carb. inclus, | Slickenslides |
+|  |  | w/inbid ss gry, f/vfgr sang, arg. Bed 1"-6" thick | noted @ |
+| 100 |  | and comprise ±20% of intvl. | 10,105-6 |
+|  |  | 10,101-10,102.5 Ss, gry, f/vfgr, srd, sang, m.std |  |
+| 110 |  | wholly inclus, dol cly cmt, vglanc (10%-15%), mic |  |
+| 10,111 |  | poor por & perm, f dissemin py and carb. flecks and |  |
+|  |  | inclusions |  |
+|  |  | 10,102.5-10,111 lub'd ss & sh aa, but ss is <5% |  |
+|  |  | of intvl & 1" thick. |  |
+|  |  | Dip is uniform 5-7° and the bedding is |  |
+|  |  | sub planar. The bottom 1.5" is badly broken |  |
+|  |  | Live oil is visible along bedding planes. |  |
+|  |  | The ss has str, yel fluor and flash cut in (<14. |  |
+|  |  | It is banded and appears to be concentrated |  |
+|  |  | along bedding planes |  |
+```

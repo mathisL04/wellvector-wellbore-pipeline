@@ -1,0 +1,10 @@
+```markdown
+As the result of drilling two Cod wells, the horizon previously identified as "Green" (Base of Tertiary) was reidentified as the top of the Paleocene and re-named "Pink", and the previous "Yellow" (Base of Upper Cretaceous Chalk) was reidentified as "Green" (Base of Tertiary, or top of Upper Cretaceous Chalk). The dimensions of the structure, as presently interpreted are (see Figure 2 and 3):
+
+| Seismic Horizon | Stratigraphic Horizon | Area of Closure | Vertical Closure |
+| --- | --- | --- | --- |
+| "Pink" | Top Paleocene | 17.8 mi² | 660' |
+| "Green" | Near Base Tertiary-top Upper Cretaceous Chalk | 7.5 mi² | 800-900' |
+
+Results of drill stem tests serve to restrict the size of the area containing hydrocarbons within Paleocene closure. These results put together with results of tests and log analyses on 7/11-1X and 7/11-2X further serve to present discrepancies in the apparent levels of gas-water contacts from well to well, not readily explainable by the present seismic structural interpretation. Variable gas-water contacts are entirely feasible, however, in view of evidence which indicates multiple reservoirs, discussed under Test Results. The hydrocarbon-bearing area of closure of the Cod structure, however, is taken as eight square miles, with water levels based on DST No. 7 in 7/11-3X and on log analysis in 7/11-2X. Seismic interpretations of faults, also, are of importance in regard to area of closure on the west half of the structure, and in regard to possible bearing on the apparently different depths of gas-water contacts on the east and west halves of the structure. These interpretations apply mainly to the principal north-south fault bisecting the structure on the Paleocene mapping horizon, but to some extent apply also to unmapped minor faults on the east side of the structure detectable on seismic lines NJV 5704 and PG 5704 of which one may intersect the 7/11-1X Paleocene section. Resolution of fault details may come about in further seismic mapping of the east and west flanks and of the north and south elongations of the Cod structure, currently in progress.
+```

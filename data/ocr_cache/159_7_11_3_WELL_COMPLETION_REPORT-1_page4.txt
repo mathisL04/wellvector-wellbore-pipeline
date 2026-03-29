@@ -1,0 +1,39 @@
+```markdown
+CONFIDENTIAL
+
+- Drilling Problems -
+
+Minor trouble with sloughing shale occurred in the section above 6400 feet before the 9 5/8-inch casing was set. The most troublesome shale section was encountered between 6400 and 7540 feet in which hole collapse and intermittent bridging took place until mud weight was increased from 12.9 to 14.5 ppg.
+
+- Hole Deviation -
+
+Maximum vertical deviation reached 3° at 7060 feet and returned to 0° at total depth.
+
+- Stuck Pipe -
+
+Insignificant sticking occurred between 2700 and 5972 feet where the hole wall fell in unconsolidated section.
+
+- Lost Circulation -
+
+No lost circulation problems occurred.
+
+- Coring -
+
+Three cores were taken in the Paleocene sandstone section:
+
+- Core No. 1: 10086 - 10101 feet, recovered 25 feet, 100%
+- Core No. 2: 10147 - 10192 feet, recovered 40 feet, 90%
+- Core No. 3: 10369 - 10424 feet, recovered 55 feet, 100%
+
+Core descriptions are covered in Appendix 1, and core analyses in Appendix 2.
+
+- Testing -
+
+Eight drill stem tests were made with the following results:
+
+- DST No. 1, 10629 - 10651' (22' perforated): IF 19 min, ISI 5 hrs 15 min, FF 4 hrs, FSI 4 hrs 2 min. Reversed out 88 bbls of formation water contaminated with diesel oil, mud and mud filtrate, and 4 bbls predominantly of diesel and mud. Lowest Cl- 85,000 ppm. IFP1 3885, IFP2 3885, ISIP 5247, FFP1 3910, FFP2 3952, FSIP 5033.
+
+- DST No. 2, 10532 - 10603' (43' perforated): IF 15 min, ISI 3 hrs, FF 12 hrs 30 min, FSI 4 hrs 30 min. Reversed out 91 bbls: 60 bb1s diesel, 5 bbls mud, 23 bbls water, 3 bbls contaminated mud. Lowest Cl- 32,000 ppm. IFP1 3925, IFP2 3885, ISIP 5482, FFP1 3942, FFP2 4188, FSIP 5420.
+
+- DST No. 3, 10423 - 10506' (45' perforated): IF 15 min, ISI 2 hrs 55 min, FF 6 hrs 30 min, FSI 3 hrs 45 min. Reversed out 91 bbls: 78 bb1s diesel, 3 bbls mud, 8 bbls water, 2
+```

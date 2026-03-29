@@ -1,0 +1,88 @@
+NORWEGIAN PETROLEUM DIRECTORATE
+
+WELL ID: 7/11-2 COORDINATES: 57°04'15"N 02°24'27" E LICENSEE: Phillips-group
+
+LICENSE NO: 018 KBE:27 M WD: 82 M PERMIT NO 17 PERMIT DATE 15.7.68 TD 3428 M
+
+OPERATOR: Phillips CONTRACTOR: Odeco Inc RIG: Ocean Traveler
+
+SPUD DATE 21.7.68 COMPLETION DATE 14.10.68 STATUS P + A BHT 125.5°C
+
+FMTN AT TD Cretaceous PROD FMTN PROD FMTN
+
+FIELD: COD CLASSIFICATION: New Field Wildcat
+
+CASING RECORD
+
+|  | DIA. INCH | DEPTH BELOW | HOLE SIZE | DEPTH BELOW |
+| --- | --- | --- | --- | --- |
+|  |  | KB - METRES | DIA-INCH | KB - METRES |
+| SFC CGS | 30 | 133 | 36 | 133 |
+| INT CGS | 20 | 484 | 26 | 518 |
+| INT CGS | 13 3/8 | 1945 | 17 1/2 | 1982 |
+| INT CGS | 9 5/8 | 3204 | 12 1/4 | 3428 |
+| INT CGS |  |  |  |  |
+| PROD CGS |  |  |  |  |
+
+CORES
+
+| NOS OF CORES | TOTAL METRES | REC METRES |
+| --- | --- | --- |
+| 1 Conventional | 3031.4 - 3045.7 | 14.3 |
+
+LOGS RUN
+
+| TYPE | INTERVAL METR. |
+| --- | --- |
+| IES | 1946-3427 |
+| SGR-C | 1963-3427 |
+| SGR | 484-1963 |
+| GR | 104- 484 |
+| LL-7 | 484-3296 |
+| MLL-C | 2896-3428 |
+| FDC | 2896-3428 |
+| HDT | 1946-3294 |
+| SNP | 2896-3428 |
+| CBL | 2668-3198 |
+| SRS | 30-3422 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+DST AND WIRELINE TESTS
+
+| TYPE | INTERVAL METRES | REC | STATIC BHP | FFP | TEMP°C |
+| --- | --- | --- | --- | --- | --- |
+| DST | 3167-3193 | 23 bbl m+w | 5800 | 4150 |  |
+| DST | 3028-3107 | 43 mmcfd g | 5665 | 3666 |  |
+| DST | 2980-2999 | 16 b d+m | 3467 | 3809 |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+MISC: DST 2 - 2-1½" chokes
+
+DEVIATION
+
+| DEPTH METRES | DEG |
+| --- | --- |
+| 518 | 1.0 |
+| 1558 | 2.0 |
+| 1982 | 4.4 |
+| 2287 | 3.7 |
+| 2592 | 3.1 |
+| 2759 | 1.7 |
+| 3264 | 2.9 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

@@ -1,0 +1,30 @@
+- 5 -
+CONFIDENTIAL
+# GEOLOGY
+## Geologic Objectives
+The objective of the 7/11-2X well was to test the hydrocarbon potential of the Paleocene on the west flank of the Cod structure, and to confirm the gas and condensate discovery made by the 7/11-1X well which is capable of producing 2700 BOPD and 40 MMCFGPD.
+## Results
+### - Stratigraphy -
+| Stratigraphic Unit | Depth RKB |  | Depth MSL |  | Drilled Thickness |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Meters | Feet | Meters | Feet | Meters | Feet |
+| QUATERNARY |  |  |  |  |  |  |
+| Recent | 108 | 354 | - | 82 | - | 268 |
+| Pleistocene |  |  |  |  | 413 | 1354 |
+| TERTIARY |  |  |  |  |  |  |
+| Upper Pliocene | 521 | 1708 | - | 494 | - | 1621 |
+| Lower Pliocene | 628 | 2060 | - | 601 | - | 1973 |
+| Upper Miocene | 689 | 2260 | - | 662 | - | 2173 |
+| Middle Miocene | 746 | 2446 | - | 719 | - | 2359 |
+| Lower Miocene |  |  |  |  |  |  |
+| - Burdigalian | 1560 | 5118 | -1533 | - | 5031 |  |
+| - Aquitanian | 1754 | 5756 | -1728 | - | 5669 |  |
+| Oligocene | 2025 | 6645 | -1999 | - | 6558 |  |
+| ?Upper-?Middle Eocene | 2761 | 9057 | -2734 | - | 8970 |  |
+| ?Lower Eocene-?Paleocene | 2913 | 9556 | -2886 | - | 9469 |  |
+| Upper Paleocene | 2983 | 9786 | -2956 | - | 9699 |  |
+| Lower Paleocene |  |  |  |  |  |  |
+| - Danian | 3220 | 10564 | -3193 | - | 10477 |  |
+| UPPER CRETACEOUS |  |  |  |  |  |  |
+| Maestrichtian | 3346 | 10978 | -3320 | - | 10891 |  |
+| (Total Depth) | 3427 | 11245 | -3401 | - | 11158 |  |

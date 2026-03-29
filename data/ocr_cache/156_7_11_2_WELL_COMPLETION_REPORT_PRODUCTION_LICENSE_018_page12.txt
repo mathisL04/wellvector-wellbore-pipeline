@@ -1,0 +1,25 @@
+```markdown
+APPENDIX 1 (4)
+
+Phillips Petroleum Co., Norway.
+
+Well: 7/11-2X
+
+CORE DESCRIPTION
+
+| Depth Range | Description |
+| --- | --- |
+| 9951'6" to 9952'4" | Sandstone - As above. |
+| 9952'4" to 9952'6" | Shale - As above. |
+| 9952'6" to 9956'5" | Sandstone - As above. |
+| 9956'5" to 9957'6" | Shale - Medium gray, firm, micaceous, very sandy. |
+| 9957'6" to 9960'2" | Sandstone - Light gray, fine-grained to medium-grained, hard, sub-angular to sub-rounded, argillaceous, calcareous, micaceous, occasional small gray shale inclusions. |
+| 9960'2" to 9960'4" | Shale - As above. |
+| 9960'4" to 9962'3" | Sandstone - Gray brown, fine-grained, hard, argillaceous, calcareous, micaceous, small gray shale inclusions. |
+| 9962'3" to 9962'9" | Shale - Dark gray, firm, micaceous; apparent dip 2°. |
+| 9962'9" to 9963'6" | Sandstone - Gray brown, fine-grained, hard, argillaceous, calcareous, micaceous, with small gray shale inclusions. |
+| 9963'6" to 9965'5" | Shale - Dark gray, firm, fissile, micaceous, slightly sandy. |
+| 9965'5" to 9969'9" | Sandstone - Gray brown, fine-grained to medium-grained, sub-angular to sub-rounded, argillaceous, slightly calcareous, micaceous, small gray shale inclusions, carbon tetrachloride cut as above. |
+
+Page 2
+```

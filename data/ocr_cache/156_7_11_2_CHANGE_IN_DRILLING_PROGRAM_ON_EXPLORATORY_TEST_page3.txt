@@ -1,0 +1,36 @@
+```markdown
+PHILLIPS PETROLEUM COMPANY
+UTENLANDSK AKSJESELSILAP
+AKERSGATEN 45 - OSLO 1 - PHONE 33 42 40 - CABLE PHILLNOR.
+
+July 1, 1968.
+
+The Ministry of Industry,
+Akersgaten 42,
+Oslo 1.
+
+Phillips No. 7/11-2
+Exploratory Test, Production License 018
+
+Pursuant to Section 39, Royal Decree of 9 April, 1965, Phillips Petroleum Company as operator for itself, Norske Fina A/S, Norsk AGIP A/S, and Elf Norge A/S, herewith submits for the Ministry's approval the following particulars of the drilling program for the subject test well.
+
+| ✓ a. | Drilling Vessel | : | "Ocean Traveler". |
+| --- | --- | --- | --- |
+|  | Construction and equipment: |  | Previously submitted |
+|  |  |  | by ODECO Norway and |
+|  |  |  | Esso Exploration Norway. |
+|  |  |  | Details of installation |
+|  |  |  | of diagonal pontoons |
+|  |  |  | from inside pontoons to |
+|  |  |  | outside pontoons can be |
+|  |  |  | obtained from ODECO |
+|  |  |  | Norway. |
+|  | Drilling contractor | : | ODECO Norway. |
+| ✓ b. | Geographic coordinates | : | 57° 04' N. Latitude. |
+|  |  |  | 02° 24' 30" E. Longitude. |
+|  |  |  | Surveyed coordinates to be provided later. |
+| ✓ c. | Estimated total depth | : | 3353 meters (11,000 feet) RKB. |
+| ✓ d. | Expected geological strata: |  | Quaternary |
+|  |  |  | Tertiary |
+|  |  |  | Mesozoic. |
+```

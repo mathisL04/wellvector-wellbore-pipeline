@@ -1,0 +1,46 @@
+
+```markdown
+$\begin{aligned}& \text { CORE LABORATORIES, Inc } \\& \text { Petroleum Reservoir Engineering } \\& \text { DALLAS, TEXAS }\end{aligned}$
+
+$\begin{aligned}& \text { ID / OLJE } \\& 0073 \cdot 31968 \\& \text { SAKS: } \\& \text { ARKIV: }\end{aligned}$
+
+$\begin{aligned}& \text { Page } 3 \text { of } 4 \\& \text { File } \mathrm{R} \mathrm{FL} 5152 \mathrm{~B} \\& \text { Well } 7 / 11-1 \mathrm{X}, \mathrm{DST} 3\end{aligned}$
+
+Pressure-Volume Relations of Reservoir Fluid at $235^{\circ} \mathrm{F}$.
+
+(Constant Composition Expansion)
+
+| Pressure | Relative | Deviation Factor |
+| --- | --- | --- |
+| PSIG | Volume | Z |
+| 7000 | 0.8658 | 1.184 |
+| 6500 | 0.8923 | 1.133 |
+| 6000 | 0.9237 | 1.083 |
+| 5739 | 0.9424 | 1.057 |
+| 5705 Reservoir Pressure | 0.9450 | 1.054 |
+| 5679 | 0.9468 | 1.051 |
+| 5571 | 0.9554 | 1.040 |
+| 5375 | 0.9728 | 1.022 |
+| 5189 | 0.9901 | 1.004 |
+| 5131 | 0.9962 | 0.999 |
+| 5090 Dew Point Pressure | 1.0000 | 0.995 |
+| 5062 | 1.0028 |  |
+| 4992 | 1.0108 |  |
+| 4906 | 1.0199 |  |
+| 4712 | 1.0431 |  |
+| 4430 | 1.0842 |  |
+| 4014 | 1.1592 |  |
+| 3637 | 1.2476 |  |
+| 3232 | 1.3728 |  |
+| 2843 | 1.5363 |  |
+| 2447 | 1.7664 |  |
+| 2058 | 2.0953 |  |
+| 1754 | 2.4606 |  |
+| 1531 | 2.8329 |  |
+| 1332 | 3.2705 |  |
+| 1169 | 3.7444 |  |
+| 1047 | 4.1976 |  |
+| 929 | 4.7498 |  |
+
+These analyses, opinions or interpretations are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions expressed represent the best judgment of Core Laboratories, Inc. (all errors and omissions excepted); but Core Laboratories, Inc. and its officers and employees, assume no responsibility and make no warranty or representations as to the productivity, proper operation, or profitability of any oil, gas or other mineral well or sand in connection with which such report is used or relied upon.
+```

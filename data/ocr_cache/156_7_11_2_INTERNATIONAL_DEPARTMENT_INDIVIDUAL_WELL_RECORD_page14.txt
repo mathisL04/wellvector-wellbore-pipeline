@@ -1,0 +1,118 @@
+```markdown
+AUTHORITY FOR EXPENDITURE
+
+| TO: |  |
+| --- | --- |
+| [ ] COMPTROLLER DEPT. |  |
+| [ ] TREASURY DEPT. |  |
+| [ ] PURCHASING DEPT. |  |
+| [ ] ENGINEERING DEPT. |  |
+| [X] Executive Dept. |  |
+| [ ] International Dept. (2) |  |
+
+TO THE EXECUTIVE COMMITTEE:
+
+BOARD OF DIRECTORS:
+
+PHILLIPS PETROLEUM COMPANY
+
+International DEPARTMENT
+
+AFE NO NW 5505
+
+| SUPPLEMENT |  |
+| --- | --- |
+| [ ] ORIGINER |  |
+| [X] SUPPLEMENT |  |
+| [ ] EXTENSION |  |
+| [ ] REDUCTION |  |
+| [ ] CANCELLATION |  |
+
+DATE Sept. 12, 1968
+
+AUTHORITY IS HEREBY REQUESTED TO:
+
+Supplement the original estimate to drill a 3353 meter (11,000') offshore confirmation well and fully test well 7/11-2, field 7, block 11, Norwegian Production License 018, Norway, North Sea, Europe.
+
+| Phillips Petroleum Company | - 36.96% |
+| --- | --- |
+| Petrofina S.A. | - 30.00% |
+| Agip S.p.A. | - 13.04% |
+| Elf Norge | - 20.00% |
+
+CLEAR TO
+
+| EXPENSE | $ | $ | $ |
+| --- | --- | --- | --- |
+| INVESTMENT | $ 532,217 | $ 335,510 | $ 196,707 |
+| TOTAL | $ 532,217 | $ 335,510 | $ 196,707 |
+
+| REVISED TOTAL ESTIMATE | $ 2,251,845 | $ 1,419,563 | $ 832,282 |
+| --- | --- | --- | --- |
+| PREVIOUS APPROVAL | $ 1,719,628 | $ 1,084,054 | $ 635,574 |
+| APPROVAL REQUIRED | $ 532,217 | $ 335,510 | $ 196,707 |
+
+1968 BUDGET ITEM NUMBER 11 - Norway
+
+| GROSS COST | LESS PARTNER INT. | OUR NET INTEREST |
+| --- | --- | --- |
+| $ | $ | $ |
+
+| AVERAGE ANNUAL RATE OF RETURN | PER CENT |
+| --- | --- |
+| PAYOUT ON REQUIRED EXPENDITURE | YEARS |
+
+NO. TIMES EXPENDITURE RETURNED IN ECONOMIC LIFE
+
+(ABOVE TO BE FIGURED AFTER FEDERAL INCOME TAXES)
+
+| CONTINGENCY - REGULAR |  |
+| --- | --- |
+| CONTINGENCY - PAYOUT |  |
+
+| ESTIMATED CONSTRUCTION PERIOD | MONTHS |
+| --- | --- |
+| ESTIMATED ECONOMIC LIFE OF PROJECT | YEARS |
+| ESTIMATED INCREASE IN WORKING CAPITAL $ |  |
+| RISK CLASSIFICATION |  |
+
+JUSTIFICATION:
+
+Authority is requested to supplement AFE NW 5505 as a result of the following factors:
+
+1) A sloughing shale was encountered above 6500' requiring a 14.8 ppg mud density for control. This increased mud density resulted in the total mud cost being $250,000 instead of $100,000 as estimated. In addition several days rig time were lost bringing the shale under control.
+
+2) An 8½" hole was drilled below 9907' instead of 12-1/4" as planned. This required additional rig time to change out drilling assemblies and to ream the 8½" hole to 12-1/4" in order to set 9-5/8" casing.
+
+3) Hard drilling encountered below 9800' increased the estimated drilling time by approximately ten days. Also, the hard drilling has required the use of diamond drilling bits which have increased estimated bit costs approximately $30,000.
+
+4) It was necessary to make an intermediate log run at 10,810' for correlation purposes. This in turn required three days rig time and additional logging charges.
+
+5) The drilling of this well on a "crash program" necessitated $50,000 air freight charges that were not originally estimated.
+
+6) Analysis of the electric logs indicates two additional DST tests will be required that were not included in the original estimate.
+
+O.D. Thomas In order to provide funds for this supplement, approval is requested to C.O. Downey transfer $196,707 from Item 11 - Egypt.
+
+Brussels E&P file
+
+Brussels Budget Control
+
+Field Office (2)
+
+PHILLIPS PETROLEUM CO.
+
+RECEIVED
+
+STAVANGER
+
+OPERATING COMMITTEE
+
+EXECUTIVE COMMITTEE OR BOARD OF DIRECTORS
+
+DATE OCT 1 1968
+
+DEPARTMENTAL APPROVALS
+
+Form 362 3-61
+```

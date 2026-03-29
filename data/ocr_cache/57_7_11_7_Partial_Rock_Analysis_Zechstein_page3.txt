@@ -1,0 +1,15 @@
+ACID SOLUBILITY
+
+CS-83-43 Page 3
+
+ACID SOLUBILITY (Continued)
+
+The amount of mud acid soluble material was calculated and reported as a percent by weight.
+
+ii) Results
+
+| SAMPLE NUMBER | PERCENT SOLUBILITY IN 12-3 MUD ACID |
+| --- | --- |
+| A | 50.0 |
+| B | 80.0 |
+| C | 56.0 |

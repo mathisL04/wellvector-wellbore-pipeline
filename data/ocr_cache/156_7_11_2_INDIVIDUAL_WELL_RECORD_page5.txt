@@ -1,0 +1,31 @@
+time for this cement will be 2 hrs. 22 mins. at 12,000 feet and 3 hrs. 37 mins. at 10,000 feet. The compressive strength of the cement will be 3000 psi plus in 24 hours.
+
+The 1500 sxs of cement will provide a 4500' column of cement plus 25% allowed for washouts.
+
+A Baker Model "G" differential float shoe will be run on the bottom and a Baker Model "G" differential float collar one joint above the shoe. Three centralizers will be run with one $7 \frac{1}{2}^{\prime}$ above the shoe, one two joints above the shoe, and one centralizer four joints above the shoe.
+
+As this is N-80 casing, NO WELDING should be done. Baker-lok should be used instead.
+
+Wait on cement 24 hours before drilling out.
+
+Wellhead and B.O.P. Procedure:
+
+A Cameron Underwater Wellhead System, Payne Control System, Hydril and Shaffer blowout preventors will be used for drilling this well. The procedure for handling and running this equipment is covered in the Cameron Underwater Wellhead Manual. A B.O.P. test is to be conducted to $\frac{1}{2}$ the B.O.P. rated working pressure the first trip out of the hole after 12:01 A.M. each Tuesday.
+
+Mud Logging:
+
+The Geoservice mud logging unit is to be in service when the well is spudded. A geologist will be on board to furnish information to the mud logger as to frequency, number, and kind of samples to be collected.
+
+Drill Stem Testing:
+
+There will be no open hole drill stem testing.
+
+Hole Deviation Surveys:
+
+An instrument to measure hole deviation is available on the rig. Surveys should be made every trip out of the hole. Intermediate surveys are to be made only if deviation is a problem.
+
+MUD PROGRAM
+
+36" and 26" Holes (36" at 65'; 26" at 1650')
+
+These holes will be drilled with seawater and with no returns to the surface. A high viscosity mud should be prepared in the pits for use in pumping through the hole in small slugs in case hole cleaning should become a problem and for spotting in the hole prior to running casing. The amount spotted prior to running casing should equal twice the calculated hole volume, however, in the case of the 26" hole the amount spotted will be determined by the maximum pit volume. This high viscosity slurry should be prepared from approximately 20 ppb. Zeogel and 3 to 4 ppb. Flosal and should

@@ -1,0 +1,26 @@
+REQUEST AND SAMPLES DS CS-83-43 Page 1
+
+INFORMATION REQUESTED
+
+Solubility in 15X and mud acid and scanning electron microscope examination with EDAX analysis.
+
+SAMPLES TESTED
+
+Three small samples of rock debris were received in the lab, labelled:-
+
+| A | COD 7/11-7 | 15,926 ft Calc siltstone |
+| --- | --- | --- |
+| B | COD 7/11-7 | 15,958 ft Dolomite |
+| C | COD 7/11-7 | 15,967 ft Calc claystone |
+
+All chemicals used came from laboratory stock.
+
+SUMMARY OF RESULTS
+
+Sample A was found to be 12.0% soluble in 15X and 50.0% soluble in RMA.
+
+Sample B was found to be 37.0% soluble in 15X and 80.0% soluble in RMA.
+
+Sample C was found to be 11.0% soluble in 15X and 56.0% soluble in RMA.
+
+Due to the poor quality and small size of the samples, it was not possible to perform detailed mineralogical analysis, but the labels already designated to the samples are fairly accurate, ie, A was a calcareous siltstone with a high clay content; B was either a dolomite or limestone (since the Mg content was fairly low); and C was a calcareous claystone consisting of mixed clays.

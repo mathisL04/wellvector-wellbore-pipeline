@@ -1,0 +1,42 @@
+CONFIDENTIAL
+
+NORWAY - NORTH SEA - CONFIRMATION WELL
+
+DRILLING PROSPECTUS
+
+Well: 7/11-2
+
+Location: $57^{\circ} 04^{\prime} 00^{\prime \prime} \mathrm{N}, 02^{\circ} 24^{\prime} 20^{\prime \prime} \mathrm{E}$.
+
+Water Depth: Approximately $260^{\prime}$.
+
+General:
+
+Current plans are to drill to a depth of approximately $11,135^{\prime}$ $\left(100^{\prime}\right.$ into the limestone) in block 7/11 using ODECO's semi- submersible drilling rig "Ocean Traveler".
+
+AFE NW-5505 ($1,719,628 gross; $635,575 net) has been assigned to the project.
+
+Anticipated Pressures and Troublesome Formations:
+
+Geologically, well 7/11-2 is anticipated to be similiar to well 7/11-1X except the formations should be $300^{\prime}$ deeper.
+
+The problem of heaving and sloughing shale will probably occur to a depth of $6500^{\prime}$. This problem will be solved by converting to a saturated salt system at $-4000^{\prime}$ and increasing the mud density to $12.0 \mathrm{ppg}$.
+
+The gas zone to be encountered at $9800^{\prime}$ can be balanced with a $11.0$ to $11.2 \mathrm{ppg}$ mud density. To provide positive hydrostatic overbalance a $12.0 \mathrm{ppg}$ mud density will be used to drill and/or core this section. The limestone immediately below the sandstone could contain formation pressures requiring $11.8 \mathrm{ppg}$ mud density for balance, however, the limestone in well 7/11-1X was very tight. Unless permeability develops in the well 7/11-2 limestone, this section should not present any unusual drilling problems.
+
+Hole and Casing Program:
+
+| Hole Size | Casing Size | Description | Torque | Approx |
+| --- | --- | --- | --- | --- |
+|  |  |  | Ft-Lbs | Depth RKB |
+| $36^{\prime \prime}$ | $30^{\prime \prime}$ | $1^{\prime \prime}$ wall $309 \mathrm{lb} / \mathrm{ft}$ |  |  |
+|  |  | (Vetco Squunch Jts) $415-455^{\prime}$ |  |  |
+| $26^{\prime \prime}$ | $20^{\prime \prime}$ | a. $133 \mathrm{lb} \mathrm{J} \mathrm{ST} \& \mathrm{C}$ |  |  |
+|  |  | b. $133 \mathrm{lb} \mathrm{J} \mathrm{LT} \& \mathrm{C}$ |  | Total |
+|  |  | c. $133 \mathrm{lb} \mathrm{J}$ Vetco |  | $-1650^{\prime}$ |
+|  |  | d. $133 \mathrm{lb} \mathrm{J} \mathrm{ST} \& \mathrm{C}$ |  |  |
+| $17 \frac{1}{2}^{\prime \prime}$ | $133 / 8^{\prime \prime}$ | a. $68 \mathrm{lb} \mathrm{J} \mathrm{ST} \& \mathrm{C}$ | 5200 | Total |
+|  |  | b. $68 \mathrm{lb} \mathrm{J} \mathrm{LT} \& \mathrm{C}$ |  | $6500^{\prime}$ |
+| $121 / 4^{\prime \prime}$ | $95 / 8^{\prime \prime}$ | $47 \mathrm{lb} \mathrm{N}-80$ Buttress |  | $\pm 11,000^{\prime}$ |
+|  |  | (to diamond |  |  |
+|  |  | mark) |  |  |

@@ -1,0 +1,33 @@
+```markdown
+This will be drilled using sea water with returns to the sea floor. Slugs of high viscosity mud will be pumped into the hole as filling becomes a problem. After the hole has been drilled, high viscosity sea water mud equal to twice the hole volume will be pumped through the bit. Mud constituents will be sea water, 15-25 lbs/bbl zeogel, 3-4 lbs/bbl Flosal and 0.1 lb/bbl lime; properties will be 8.8 ppg density and 100 sec/gt viscosity.
+
+Hole size: $17 \frac{1}{2}$ inches  
+Total depth: 1650 feet RKB  
+Hole volume: 500 barrels
+
+The mud will be the same as in 26-inch hole. Mud returns to the sea floor.
+
+Hole size: $12 \frac{1}{4}$ inches  
+Total depth: 6500 feet  
+Hole volume: 950 barrels
+
+Sea water will be used as the drilling fluid from the $13 \frac{3}{8}$-inch casing shoe to 3800 feet RKB. Below 3800 feet, the fluid will be sea water, 100 lbs/bbl salt, 1-1.5 lbs/bbl Drispac, and 2-2.5 lbs/bbl starch. DMS to be added as needed to control fluid-loss. Mud properties will be 10.2-10.5 ppg density, 35-40 sec/gt viscosity, 10 cc or less fluid loss. At 4500 feet RKB barite, and Desco as needed, will be needed to bring mud properties at 5000 feet to 11.5-11.7 ppg density, 40-45 sec/gt viscosity, 5-10 cc/30 min fluid loss, 120,000 ppm or above chlorides.
+
+Hole size: $8 \frac{1}{2}$ inches  
+Total depth: 11,400 feet
+
+The mud will be the same as in $12 \frac{1}{4}$-inch hole, with the addition of 6% diesel and 5 lbs/bbl Soltex at about 7500 feet RKB.
+
+i. Logging program:
+
+Contractor: S.P.E. Schlumberger
+
+| Run | Hole size | Interval | Tools (Schlumberger) |
+| --- | --- | --- | --- |
+| - | $26^{\prime \prime}$ | 106-152 m RKB |  |
+|  |  | (347-500 ft) |  |
+| - | $17 \frac{1}{2}^{\prime \prime}$ | 152-503 m RKB |  |
+|  |  | (500-1650 ft) |  |
+| 1 | $12 \frac{1}{4}^{\prime \prime}$ | 503-1981 m RKB | Laterolog/Caliper, |
+|  |  | (1650-6500 ft) | BHC Sonic/Gamma-Caliper |
+```

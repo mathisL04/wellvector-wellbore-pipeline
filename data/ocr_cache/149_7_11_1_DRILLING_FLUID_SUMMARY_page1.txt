@@ -1,0 +1,48 @@
+```markdown
+# 1968 PRESSURE vs. DEPTH PLOT
+
+| Depth FT. | Pressure PSI |
+|-----------|--------------|
+| 2000      |              |
+| 4000      |              |
+| 6000      |              |
+| 8000      |              |
+| 10,000    |              |
+| 12,000    |              |
+| 14,000    |              |
+| 16,000    |              |
+| 18,000    |              |
+
+**Well:** 7/11-1X  
+**Loc.:** Lost Crk.  
+**KB Elev.:**  
+**Spud:**  
+**Completed:**  
+**Casing:**  
+
+**Normal Formation Pressure Gradient (0.43 psi/ft)**  
+**Est. Overburden Pressure Gradient (1.0 psi/ft)**  
+
+**Mud Weight**  
+**Sonic**  
+**Penetration**  
+
+**Lb/Gal:**  
+**Spec. Grav.:**  
+
+**30"@4500"**  
+**20"@1500"**  
+**Tight Hole**  
+**13½"@6512**  
+**High Vis.**  
+**9½"@10,274**  
+**TD@13,034**  
+
+**11.5**  
+**11.8**  
+**12.5**  
+**13.0**  
+**13.0**  
+**12.5**  
+**13.0**  
+```

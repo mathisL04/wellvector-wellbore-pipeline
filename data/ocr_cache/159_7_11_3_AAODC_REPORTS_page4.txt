@@ -1,0 +1,135 @@
+```markdown
+Nr. 01544
+
+| OPERATOR | LEASE | WELL NO. | FIELD OR DIST. | COUNTY | STATE |
+| --- | --- | --- | --- | --- | --- |
+| Phillips Pet. Co | COO. PROSPECT 7-11 | 3X | NORWEGIAN CONT SHELF NORTH SEA |  | Norway |
+| CONTRACTOR | RIG NO. | DRILL PIPE STRING | TOOL JOINT | PUMPS | LAST CASING TUBING OR LINER |  |  |  |  |  |  |  |  |  |
+| ODECO NORWAY INC | 10 | 7" -11" TYPE THD. 4½" IF | 6⅜" O.D. | NO. | MANUFACTURER | TYPE | STROKE LENGTH | SIZE | MAKE | WT. & GR. NO. JOINTS | FEET | RKB. TO CSG. HD. | SET AT | REMARKS |
+| SIGNATURE OF OPERATOR'S REPRESENTATIVE | SIGNATURE OF CONTRACTOR'S TOOL PUSHER |  |  | 1. | NAT | N-1300 | 16" | 20" | d-55 | 133 | 6 | 227 | 336.563 |  |  |
+|  |  |  |  | 2. | " | N-1300 | 16" | 13⅜" | " | 68 | 21 | 1293 | 334.1527 |  |  |
+|  |  |  |  | 3. | C.D. | EXQ | 16" | 9⅞" | N-80 | 43.5 | 253 | 6193 | 332.6471 |  |  |
+
+| TIME DISTRIBUTION-HOURS |  |  | NO. | DRILLING ASSEMBLY AT END OF TOUR | BIT RECORD | MUD RECORD | FOOTAGE | DR_D RM_R CORE NO. | FORMATION (SHOW CORE RECOVERY) | ROTARY RPM | WT. ON BIT 1000# | PUMP PRESS | PUMP NO. LINER SIZE S.P.M. | PUMP NO. LINER SIZE S.P.M. | METHOD RUN SGL-LP COM-D-C |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | NIGHT | DAY | STANDS D.P. | FT. | BIT NO. | TIME | FROM | TO | CORE...C |  |  |  |  |  |  |
+| RIG UP & TEAR DOWN |  |  | SINGLES D.P. | FT. | SIZE | WEIGHT |  |  |  |  |  |  |  |  |  |
+| DRILLING ACTUAL |  |  | D.C. |  | MFG. | VISC.-SEC |  |  |  |  |  |  |  |  |  |
+| REAMING |  |  | I.D. O.D. | FT. | TYPE | W.L.-C.C. |  |  |  |  |  |  |  |  |  |
+| CONDITIONING MUD & CIRCULATING |  |  | D.C. |  | NOZZLE | FLTR. CK. |  |  |  |  |  |  |  |  |  |
+| TRIPS |  |  | I.D. O.D. | FT. | NO. | SIZE |  |  |  |  |  |  |  |  |  |
+| LUBRICATE RIG |  |  | STB. BODY O.D. | FT. | SER. NO. | SD. CONT. % |  |  |  |  |  |  |  |  |  |
+| DEVIATION SURVEY |  |  | STR. BODY O.D. | FT. |  | PH |  |  |  |  |  |  |  |  |  |
+| TEST B.O.P. |  |  | RHU. BODY O.D. | FT. | DEPTH OUT |  | DEVIATION RECORD | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION |
+| CUT OFF DRILLING LINE |  |  | RHU. BODY O.D. | FT. |  |  |  |  |  |  |  |  |  |  |  |
+| REPAIR RIG |  |  | SUBS O.D. | FT. | DEPTH IN |  |  |  |  |  |  |  |  |  |  |
+| CORING |  |  | BIT OR C.B. | FT. | TOTAL FTG. | MUD & CHEMICALS ADDED | TIME LOG | FROM | TO | ELAPSED TIME | DETAILS OF OPERATIONS IN SEQUENCE AND REMARKS |
+| WIRE LINE LOGGING |  |  |  |  | TOTAL HR. RUN | TYPE | AMT. | TYPE | AMT. |  |  |  |  |
+| KELLY DOWN | FT. | COND. OF BIT |  |  |  |  |  |  |  |
+| RUNNING CASING & CEMENTING |  |  | TOTAL | FT. | REAMER NO. |  |  |  |  |  |  |  |
+| WAITING ON CEMENT |  |  | WT. OF STRING | LBS. | REAMER TYPE |  |  |  |  |  |  |
+| DRILL STEM TEST |  |  |  |  |  |  |  |  |  |  |  |
+| OTHER |  | 12 | REMARKS |  |  |  |  |  |  |  |
+| FISHING |  |  |  |  |  |  |  |  |  |  |
+| COMPLETION WORK | A. PERFORATING |  |  |  |  |  |  |  |  |  |
+|  | B. TUBING TRIPS |  |  |  |  |  |  |  |  |  |
+|  | C. SWABBING |  |  |  |  |  |  |  |  |  |
+|  | D. TESTING |  |  |  |  |  |  |  |  |  |
+|  | E. ADDITIONAL |  |  |  |  |  |  |  |  |  |
+| TOTALS |  | 12 |  |  |  |  |  |  |  |  |
+| TIME SUMMARY (OFFICE USE ONLY) |  |  |  |  |  |  |  |  |  |  |
+| DAY WORK |  |  |  |  |  |  |  |  |  |  |
+| HRS. W/DP |  |  |  |  |  |  |  |  |  |  |
+| HRS. WO/DP |  |  |  |  |  |  |  |  |  |  |
+| HRS. STANDBY |  |  |  |  |  |  |  |  |  |  |
+| TOTAL DAY WORK |  |  |  |  |  |  |  |  |  |  |
+| WIRE LINE RECORD |  |  |  |  |  |  |  |  |  |  |
+| REEL NO. | 3/4206 |  |  |  |  |  |  |  |  |  |
+| NO. OF LINES | 10 | SIZE | ⅜" |  |  |  |  |  |  |  |
+| FEET SLIPPED | None |  |  |  |  |  |  |  |  |  |
+| FEET CUT OFF | None |  |  |  |  |  |  |  |  |  |
+| PRESENT LENGTH | 6850 |  |  |  |  |  |  |  |  |  |
+| TON ML. OR TRIPS SINCE LAST CUT | 1493 |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE TON ML. OR TRIPS | 26855 |  |  |  |  |  |  |  |  |  |
+| NO. OF DAYS FROM SPUD |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE ROTATING HRS. |  |  |  |  |  |  |  |  |  |  |
+
+| NO. | DRILLING ASSEMBLY AT END OF TOUR | BIT RECORD | MUD RECORD | FOOTAGE | DR_D RM_R CORE NO. | FORMATION (SHOW CORE RECOVERY) | ROTARY RPM | WT. ON BIT 1000# | PUMP PRESS | PUMP NO. LINER SIZE S.P.M. | PUMP NO. LINER SIZE S.P.M. | METHOD RUN SGL-LP COM-D-C |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STANDS D.P. | FT. | BIT NO. | TIME | FROM | TO | CORE...C |  |  |  |  |  |  |  |
+| SINGLES D.P. | FT. | SIZE | WEIGHT |  |  |  |  |  |  |  |  |  |  |
+| D.C. |  | MFG. | VISC.-SEC |  |  |  |  |  |  |  |  |  |  |
+| I.D. O.D. | FT. | TYPE | W.L.-C.C. |  |  |  |  |  |  |  |  |  |  |
+| D.C. |  | NOZZLE | FLTR. CK. |  |  |  |  |  |  |  |  |  |  |
+| I.D. O.D. | FT. | NO. | SIZE |  |  |  |  |  |  |  |  |  |  |
+| STB. BODY O.D. | FT. | SER. NO. | SD. CONT. % |  |  |  |  |  |  |  |  |  |  |
+| STR. BODY O.D. | FT. |  | PH |  |  |  |  |  |  |  |  |  |  |
+| RHU. BODY O.D. | FT. | DEPTH OUT |  | DEVIATION RECORD | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION | DEPTH | DEV. | DIRECTION |
+| RHU. BODY O.D. | FT. |  |  |  |  |  |  |  |  |  |  |  |  |
+| SUBS O.D. | FT. | DEPTH IN |  |  |  |  |  |  |  |  |  |  |  |
+| BIT OR C.B. | FT. | TOTAL FTG. | MUD & CHEMICALS ADDED | TIME LOG | FROM | TO | ELAPSED TIME | DETAILS OF OPERATIONS IN SEQUENCE AND REMARKS |
+|  |  | TOTAL HR. RUN | TYPE | AMT. | TYPE | AMT. |  |  |  |  |
+| KELLY DOWN | FT. | COND. OF BIT |  |  |  |  |  |  |  |
+| TOTAL | FT. | REAMER NO. |  |  |  |  |  |  |  |
+| WT. OF STRING | LBS. | REAMER TYPE |  |  |  |  |  |  |  |
+| REMARKS |  |  |  |  |  |  |  |  |  |
+| DRILLER | Vera Arndt |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  | 

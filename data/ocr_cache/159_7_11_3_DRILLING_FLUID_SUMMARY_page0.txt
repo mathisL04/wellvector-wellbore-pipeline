@@ -1,0 +1,12 @@
+```markdown
+DRILLING FLUID SUMMARY
+
+| Well: | 7/11-3X |
+|-------|---------|
+| Field: | Cod     |
+| Rig: | Ocean Traveller |
+| Date: | 15 October 1968 |
+|       | 12 January 1969 |
+| Prepared by | R. F. Wally |
+
+```

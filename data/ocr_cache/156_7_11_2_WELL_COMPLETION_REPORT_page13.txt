@@ -1,0 +1,38 @@
+```markdown
+APPENDIX 2 (2)
+
+NORWEGIAN OPERATIONS
+
+SIDEWALL CORE FORM
+
+| Well No.: | 7/11-2X | Date: | Sept. 4-5, 1968 |
+| --- | --- | --- | --- |
+| Country: | Norway | Geologist: | J.L. Montgomery |
+| Depth: | Rec. | Description | Fluor | Remarks |
+| 10,809' | 3/4" | ls, lt gy, mic xln, dn |  |  |
+| 10,806' | lost | ls, lt gy, chky-mic xln, hd, moist appear | faint spots |  |
+| 10,804' | 3/4" | ls, wht, chky, hd | faint yel fluor on outer edges |  |
+| 10,801' | 3/4" | ls, wh-lt gy, chky, hd small stks organic matr, moist appear | faint spots yel fluor on outer edges |  |
+| 10,800' | 3/4" | ls, lt gy-lt grn, mic xln, hd, glauc, moist appear |  |  |
+| 10,790' | 3/4" |  |  |  |
+| 10,779' | 3/4" | ls, wh, chky, hd, thin brn sh lam |  |  |
+| 10,760' | 3/4" | ls, wht, chky, hd, badly frac | small stks yel fluor |  |
+| 10,745' | 3/4" | ls, wh, chky, hd, badly frac | faint yel fluor |  |
+| 10,700' | 3/4" | ls, wh, chky, brit, hd, frac, moist appear | tr yel fluor in fracs |  |
+| 10,680' | lost | ls, gy, mic-xln, hd brit |  |  |
+| 10,665' | 3/4" | ls, gy, mic-xln, hd, brit, moist appear | tr fluor |  |
+| 10,650' | 3/4" |  |  |  |
+| 10,605' | 3/4" | ls, gy, mic-xln, hd broken, blk stks |  |  |
+| 10,573' | 1" | ls, dk gy, mic-xln, hd, foss, moist appear |  |  |
+| 10,565' | 1-1/4" | ls, wh-lt gy, chky, hd |  |  |
+| 10,553' | 1" | ss, lt gy vf, poor sort, calc cem, loose, glauc sh, dk gy-blk, slty, med hd | good yel fluor |  |
+| 10,495' | 1½" |  |  |  |
+| 10,463' | empty |  |  |  |
+| 10,270' | empty |  |  |  |
+| 10,214' | empty |  |  |  |
+| 10,155' | misfire |  |  |  |
+| 10,145' | misfire |  |  |  |
+| 10,126' | misfire |  |  |  |
+| 10,093' | misfire |  |  |  |
+| 10,072' | misfire |  |  |  |
+```

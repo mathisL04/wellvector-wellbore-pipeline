@@ -1,0 +1,19 @@
+
+```markdown
+# CHEMICAL CHARACTERISTICS
+CS-83-48
+
+3. Chemical Characteristics (contd)
+
+The amount of mud acid soluble material was calculated and reported as a percent by weight.
+
+ii) Results
+
+| Sample No. | Percent Solubility in 12-3 Mud Acid |
+|------------|-------------------------------------|
+| A          | 45.0                                |
+| B          | 47.0                                |
+| C          | 54.0                                |
+| D          | 56.0                                |
+| E          | 62.0                                |
+```

@@ -1,0 +1,69 @@
+
+```markdown
+| WELL NO | 7/11-1 |
+| --- | --- |
+| OPERATOR | PHILLIPS |
+| T.D. | 3974 M |
+| K.B. | 27 M |
+| W.D. | 78 M |
+
+| GENERALIZED | DEPTH IN |
+| --- | --- |
+| GEOLOGY | 100 m | 1000 ft |
+
+|  KB |
+| --- |
+| SAMPLES START |
+| AT | 457 m |
+| 05 |
+| 0 2 |
+| 10 |
+| 0 3 |
+| --- |
+| --- |
+| --- |
+| Cong |
+| --- |
+| --- |
+| Mdst |
+|  |
+| Marl |
+|  |
+| Dol |
+|  |
+| Coal/ |
+| lig |
+|  |
+| ←c |
+| Cored |
+|  |
+| --- |
+| Ss |
+| 3 |
+| --- |
+| --- |
+| Sh |
+| 5 |
+| --- |
+| --- |
+| Anhy |
+| 7 |
+| 8 |
+| --- |
+| Salt |
+| --- |
+| --- |
+| --- |
+|Ign/ |
+| Meta |
+| Macrofossil |
+
+| 1cm == | 1cm == |
+| --- | --- |
+| 250 m | 820 ft |
+
+Nov.1975
+
+STATENS OLJEDIREKTORAT
+LAGARDSVN 80. BOKS 600. 4001 STAVANGER - TLF 33 180
+```

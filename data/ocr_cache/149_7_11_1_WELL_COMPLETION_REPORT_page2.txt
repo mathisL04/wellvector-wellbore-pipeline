@@ -1,0 +1,42 @@
+CONFIDENTIAL
+
+WELL COMPLETION REPORT
+
+PHILLIPS 7/11-1X
+
+PRODUCTION LICENSE 018
+
+CONTENTS
+
+|  | Page |
+| --- | --- |
+| SUMMARY: | 1 |
+| DRILLING HISTORY: |  |
+| Dates of Operations | 1 |
+| Details of Operations | 1 |
+| Mud Program | 2 |
+| Logging Program | 2 |
+| Drilling Problems | 3 |
+| Coring | 3 |
+| Testing | 3 |
+| Plugging and Abandonment | 4 |
+| GEOLOGY: |  |
+| Regional Geology | 5 |
+| Prospect Geology | 5 |
+| Geologic Objectives | 5 |
+| Results: |  |
+| - Stratigraphy | 7 |
+| - Lithology | 8 |
+| CONCLUSIONS | 11 |
+| APPENDIX 1: |  |
+| Core Analysis |  |
+| APPENDIX 2: |  |
+| Sidewall Cores |  |
+| APPENDIX 3: |  |
+| Letter from J.B. Marr to O.D. Thomas |  |
+| dated October 9, 1968 w/attach. |  |
+| ATTACHMENTS |  |
+| 1) Schlumberger Logs |  |
+| 2) Geoservices Masterlog and Chromatolog |  |
+| 3) Robertson Research Company Ltd. Micropaleontology and Stratigraphy Report |  |
+| 4) Phillips Petroleum Company Composite Log |  |

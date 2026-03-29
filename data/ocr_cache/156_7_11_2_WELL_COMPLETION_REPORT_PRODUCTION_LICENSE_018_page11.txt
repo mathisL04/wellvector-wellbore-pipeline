@@ -1,0 +1,23 @@
+```markdown
+APPENDIX 1 (3)
+
+Phillips Petroleum Co.,
+Norway:
+Well: 7/11-2X.
+
+CORE DESCRIPTION
+
+| Depth       | Description                                                                                                                                    |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9943' to 9943'10" | Sandstone - light gray, fine-grained, sub-rounded, argillaceous, calcareous, micaceous, with occasional green shale inclusions; dull gold overall pinpoint fluorescence which yields a very poor, slow, bluish-white carbon tetrachloride cut under ultra-violet light. |
+| 9943'10" to 9944' | Shale - black, firmly fissile.                                                                                                                 |
+| 9944' to 9946'3"  | Sandstone - As above but with good carbon tetrachloride cut.                                                                                   |
+| 9946'3" to 9947'  | Shale - black, hard, fissile, with sandy lamellae; apparent dip 2°.                                                                           |
+| 9947' to 9948'9"  | Shale - dark gray, micaceous, very sandy.                                                                                                     |
+| 9948'9" to 9949'3" | Sandstone - light gray, fine-grained, sub-rounded, slightly calcareous, micaceous, with occasional gray shale inclusions; carbon tetrachloride cut as above. |
+| 9949'3" to 9950'   | Shale - dark gray, firmly, very sandy.                                                                                                        |
+| 9950' to 9950'8"  | Sandstone - gray brown, fine-grained, slightly calcareous, as above.                                                                          |
+| 9950'8" to 9950'10" | Shale - As above.                                                                                                                             |
+| 9950'10" to 9951'  | Sandstone - As above.                                                                                                                         |
+| 9951' to 9951'6"  | Shale - As above.                                                                                                                             |
+```

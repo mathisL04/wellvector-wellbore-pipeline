@@ -1,0 +1,37 @@
+```markdown
+# CONFIDENTIAL
+
+## SUMMARY
+
+| Well:                       | Phillips 7/11-2X |
+|-----------------------------|-----------------|
+| Classification:             | New Field Wildcat |
+| Area:                       | Field 7, Block 11, Production License 018 |
+| Contractor and Rig:         | ODECO Norway Inc. "Ocean Traveler" |
+| Location:                   | Line NJV 5704, S.P. 1248 |
+|                             | 54° 04' 15.2" N |
+|                             | 02° 24' 26.5" E |
+| Water Depth:                | 82 meters (268 feet) below mean sea level |
+| Rotary Kelly Bushing:       | 27 meters (87 feet) above mean sea level |
+| Objective:                  | To test the Tertiary. |
+| Results:                    | Tested gas and condensate from Paleocene sandstone. |
+| Status:                     | Suspended well. |
+| Total Depth:                | 3427 meters (11,245 feet) RKB. |
+
+## DRILLING HISTORY
+
+| Dates of Operations          |                        |
+|------------------------------|------------------------|
+| Spud:                        | 21. July 1968           |
+| At Total Depth:             | 12. September 1968      |
+| Completed:                  | 14. October 1968        |
+
+### - Casing Program -
+
+| Details of Operations |
+|-----------------------|
+| **30-inch set at 132 meters (435 feet) RKB in 36" hole and cemented with 600 sacks cement.** |
+| **20-inch set at 484 meters (1587 feet) RKB in 26" hole and cemented with 2700 sacks cement.** |
+| **13-3/8-inch set at 1945 meters (6381 feet) RKB in 17-1/2" hole and cemented with 2300 sacks cement.** |
+| **9-5/8-inch set at 3203 meters (10,510 feet) RKB in 12-1/4" hole and cemented with 1500 sacks cement.** |
+```

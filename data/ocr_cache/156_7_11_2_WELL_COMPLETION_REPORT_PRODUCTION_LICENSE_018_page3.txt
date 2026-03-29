@@ -1,0 +1,42 @@
+CONFIDENTIAL
+
+- Mud Program -
+
+| Depth: | Weight: | Viscosity: PV: | YP: | Water Loss: |
+| --- | --- | --- | --- | --- |
+| 0- 4000 feet | 9 ppg | 30 | 8 | 12 |
+| (0- 1219 meters) |  |  |  | 22 |
+| 4000- 6500 feet | 10 ppg | 65 | 16 | 30 |
+| (1219- 1981 meters) |  |  |  | 29 |
+| 6500- 8998 feet | 12 ppg | 55-190 | 35 | 25 |
+| (1981- 2744 meters) |  |  |  | 13 |
+| 8998- 9709 feet | 13.6 ppg | 55 | 40 | 8 |
+| (2744- 2959 meters) |  |  |  | 8.4 |
+| 9709-11245 feet | 13 ppg | 60 | 40 | 14 |
+| (2959- 3427 meters) |  |  |  | 4 |
+
+Seawater was used for drilling to 4000 feet where the system was changed to a salt-saturated Drispac-Desco-Flosal type.
+
+- Logging Program -
+
+| Schlumberger Tools | Run | Interval |
+| --- | --- | --- |
+| Induction Electric | 1 | 6384 - 10,813 feet |
+|  | 2 | 10,600 - 11,244 " |
+| Gamma Ray-Sonic-Caliper | 1 | 340 - 6467 feet |
+|  | 2 | 6384 - 10,814 " |
+|  | 3 | 10,600 - 11,244 " |
+| Laterolog | 1 | 1587 - 6467 feet |
+|  | 2 | 6384 - 10,812 " |
+| Microlog/Microlaterolog-Caliper | 1 | 9500 - 10,811 feet |
+|  | 2 | 10,600 - 11,244 " |
+| Formation Density | 1 | 9500 - 10,813 feet |
+|  | 2 | 10,600 - 11,244 " |
+| Neutron (SNP) | 1 | 9500 - 10,812 feet |
+|  | 2 | 10,600 - 11,244 " |
+| Continuous Dipmeter (HDT) | 1 | 6384 - 10,805 feet |
+| Cement Bond Log | 1 | 8750 - 10,490 feet |
+
+- Drilling Problems -
+
+A 17-$\frac{1}{2}$ inch hole was drilled to 6500 feet. Tight hole problems were experienced upon pulling out of hole to log. Hole had to be washed back to total depth after which heaving shale problems and hole

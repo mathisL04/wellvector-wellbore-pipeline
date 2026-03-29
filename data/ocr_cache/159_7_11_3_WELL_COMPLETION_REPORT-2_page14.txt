@@ -1,0 +1,20 @@
+- 12 -
+CONFIDENTIAL
+
+| Middle Sand Mem. | 7/11-2X |  | 7/11-1X |  | 7/11-3X |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | U | L | U | L | U | L |
+| Depth Interval | 9934' - | 10080' - | 9525' - | 9695' - | 10125' - | 10310' - |
+|  | 10080' | 10205' | 9695' | 9810' | 10310' | 10425' |
+| Structural Bearing |  |  |  |  |  |  |
+| mean | 225° | 300° | 100° | 340° | 80° | (none) |
+| range | 210-260° | 270-320° | 100-120° | 315-15° | 55-100° | - |
+| Structural Dip | 7° | 5° | 5° | 3° | 6° | 0° |
+| Depositional |  |  |  |  |  |  |
+| Bearing | 280° | 325°(?) | 110°(?) | 345° | 105° | (none) |
+
+A graphic summary of the above tabulation is shown in Figures 7A and 7B.
+
+In the lower third of the Middle Sand Member there is a suggestion of north-northwesterly deposition independent of the structural position of each well, but in the upper two-third there is an apparent relationship between direction of deposition and well location on the structure. Direction of deposition, in other words, was influenced locally by the shape of the structure as was the case with older Paleocene units. This unfortunately gives no basis for the postulation of direction of sand source nor of the best porosity facies in the sands. Hopefully, these may be realized with additional wells in the area like the planned Northeast Cod 7/11-4X. Nevertheless, as an initial working idea to pursue, the north-northwesterly direction of deposition of the lower third of the Middle Sand Member is taken to be representative of the Middle Sand, and a southward to southeastward source is postulated. The structural high on which the Phillips U.K. Blocks 30/29, 38/4,5 are located is the consequent initial choice for source. An ancient North Scottish source is suggested in the sedimentary study on cores (Appendix 3) but this locale is thought to be too far removed.
+
+In the section on Regional Geology, reference was made to the fact that the Cod Field apparently coincides with the present-day maximum structural depression of Tertiary sediments, with the implication that greatest turbidite sand developments in the Paleocene producing section will naturally occupy maximum depressions. This coincidence, however, may be entirely fortuitous unless and until it can be demonstrated that the maximum depression of the basin during Paleocene time coincided with present-day depression. The effects on sand accumulations of salt domes possibly elevated on the subsea surface which was receiving deposition, locally obscure the regional picture. A possible approach to predict sand development exists in the seismic record sections. In the Cod area good reflection character appears but eastward, for example toward the Gulf 7/12-1X well, the reflection character becomes poorer and the thickness of the Paleocene becomes less. Shaling out of sands as well as thinning would seem to go hand in hand with loss of reflection strength. The lack of development of the Middle Sand Member in the relatively nearby Gulf 7/12-1X and Shell 1/3-1X wells, both occupying

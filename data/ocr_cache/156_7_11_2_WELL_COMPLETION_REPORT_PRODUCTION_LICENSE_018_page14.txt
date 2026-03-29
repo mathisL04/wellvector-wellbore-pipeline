@@ -1,0 +1,46 @@
+```markdown
+# NORWEGIAN OPERATIONS
+
+SIDEWALL CORE FORM
+
+| Depth: | Rec. | Description | Fluor | Remarks |
+| --- | --- | --- | --- | --- |
+| 10,809' | misfire |  |  |  |
+| 10,806' | Brok.bul. |  |  |  |
+| 10,797' | ½" | ls, lt gr, chky, hard |  |  |
+| 10,750' | 3/4" | ls, lt gr, chky, frac, hard | yel fluor | v weak cut |
+| 10,700' | empty |  |  |  |
+| 10,680' | empty |  |  |  |
+| 10,665' | lost |  |  |  |
+| 10,650' | empty |  |  |  |
+| 10,600' | 3/4" | ls, lt gr, chky, marly |  |  |
+| 10,553' | lost |  |  |  |
+| 10,500' | lost |  |  |  |
+| 10,452' | 3/4" | ss, wh-lt gy, vf,fri, well sort,sltst cem,glauc | yel fluor, v weak cut |  |
+| 10,440' | 1" | ss,wh, vf, fri, well sort, sli calc, glauc | yel, fluor v weak cut |  |
+| 10,395' | 1½" | ss, gy, vf, fri, poor sort, sli calc, sity, sli glauc, gy sh | few small spots yel fluor |  |
+| 10,335' | 1-3/4" | ss, gy, vf, fri, sity, well sort, spots carb matr | stks yel fluor |  |
+| 10,270' | misfire |  |  |  |
+| 10,165' | 1" | ss, wht-buf, vf, loose, v slty, tr glauc | pale yel fluor |  |
+| 10,155' | lost |  |  |  |
+| 10,126' | misfire |  |  |  |
+| 10,105' | 1½" | ss, lt gy vf, loose, v slty, well sort | spots, stks pale yel fluor |  |
+| 10,072' | lost |  |  |  |
+| 10,055' | misfire |  |  |  |
+| 10,035' | 1½" | ss, lt gy-lt brn vf, loose v slty, well sort | spots pale yel fluor |  |
+| 10,029' | misfire |  |  |  |
+| 10,016' | lost |  |  |  |
+| 9,990' | ½" | sh, lt-dk gy, slty, med hd sltst, lt bl-gy, shly, calc |  |  |
+| 9,830' | 1½" |  |  |  |
+| 9,810' | misfire |  |  |  |
+| 9,569' | 1-1/4" | sh, wht-lt gy |  |  |
+| 9,567' | tr. | mostly wall cake w/small piece brn waxy hd sh |  |  |
+
+Well No.: 7/11-2X
+
+Country: Norway
+
+Date: Sept. 4-5, 1968
+
+Geologist: J.L. Montgomery
+```

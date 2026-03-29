@@ -1,0 +1,20 @@
+```markdown
+TAUSHETSPL
+
+CORE LABORATORIES, INC. Page 4 of 4
+
+Petroleum Reservoir Engineering File RFL 5152B
+
+DALLAS, TEXAS
+
+Pressure-Volume Relations of Reservoir Fluid at 235° F.
+
+| Company | Phillips Petroleum Company | Formation |  |
+| --- | --- | --- | --- |
+| Well | 7/11-1X, DST 3 | Province |  |
+| Field | Block 7/11 | Country | North Sea, Norway |
+
+![](https://i.imgur.com/3Q5z5QG.png)
+
+Pressure - PSIG
+```

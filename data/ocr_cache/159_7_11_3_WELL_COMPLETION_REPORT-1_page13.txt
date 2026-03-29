@@ -1,0 +1,27 @@
+```markdown
+APPENDIX 2 (2)
+
+Core Laboratories, Inc.                                                     Page No. 2
+Petroleum Reservoir Engineering
+Dallas, Texas
+
+CORE ANALYSIS RESULTS
+
+Company Phillips Norway  Formation  File
+Well 7/11-3X  Core Type  Date Report Dec. 2, 1968
+Field  Drilling Fluid  Analysts
+County North Sea  State Norway Elev. Location
+
+| Sample | Depth | Permeability | Porosity | Residual Saturation | Sample |
+| --- | --- | --- | --- | --- | --- |
+| Number | Feet | Millidarcys | Per Cent | Per Cent Pore | Description |
+|  |  | Ka | KI | Oil | Total Water | Dens | Gb |
+| 23 | 10404 – 05 | 1.03 | .70 | 13.1 |  |  |  |
+| 24 | 05 – 06 | 11.4 | 8.9 | 18.6 |  |  |  |
+| 25 | 07 – 08 | 9.9 | 7.7 | 17.5 |  |  |  |
+| 26 | 10 – 11 | 9.9 | 7.7 | 20.5 |  |  |  |
+| 27 | 15 – 16 | 8.4 | 6.5 | 18.0 |  |  |  |
+| 28 | 16 – 17 | 5.3 | 4.0 | 14.9 |  |  |  |
+| 29 | 18 – 19 | 5.5 | 4.1 | 16.7 |  |  |  |
+| 30 | 23 – 24 | 1.2 | 0.8 | 13.8 |  |  |  |
+```
