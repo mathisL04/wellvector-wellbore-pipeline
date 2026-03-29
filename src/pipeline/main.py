@@ -1,5 +1,3 @@
-"""Main pipeline orchestrator: OCR → Docling → OpenRouter → CSV output."""
-
 from __future__ import annotations
 
 import asyncio
