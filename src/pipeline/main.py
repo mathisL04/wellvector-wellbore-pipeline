@@ -108,13 +108,12 @@ def records_to_csv(records: list[CasingRecord], output_path: Path) -> None:
         rows.append({
             "Wellbore": rec.wellbore,
             "Casing type": rec.casing_type or "",
-            "Casing diameter [in]": rec.casing_diameter_in if rec.casing_diameter_in else "",
-            "Casing depth [m]": rec.casing_depth_m if rec.casing_depth_m else "",
-            "Hole diameter [in]": rec.hole_diameter_in if rec.hole_diameter_in else "",
-            "Hole depth [m]": rec.hole_depth_m if rec.hole_depth_m else "",
-            "LOT/FIT mud eqv. [g/cm3]": rec.lot_fit_mud_eqv_gcm3 if rec.lot_fit_mud_eqv_gcm3 else "",
-            "Formation test type": rec.formation_test_type or "",
-        })
+            "Casing diameter [in]": rec.casing_diameter_in if rec.casing_diameter_in is not None else "",
+            "Casing depth [m]": rec.casing_depth_m if rec.casing_depth_m is not None else "",
+            "Hole diameter [in]": rec.hole_diameter_in if rec.hole_diameter_in is not None else "",
+            "Hole depth [m]": rec.hole_depth_m if rec.hole_depth_m is not None else "",
+            "LOT/FIT mud eqv. [g/cm3]": rec.lot_fit_mud_eqv_gcm3 if rec.lot_fit_mud_eqv_gcm3 is not None else "",
+            })
 
     df = pd.DataFrame(rows)
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -133,7 +132,7 @@ def print_stats(stats: PipelineStats, elapsed: float, model: str) -> None:
     """Print pipeline performance stats."""
     console.print("\n[bold]Pipeline Statistics[/]")
     console.print(f"  LLM Model:             {model}")
-    console.print(f"  OCR Model:             Qwen2.5-VL-7B via HF Hyperbolic")
+    console.print(f"  OCR Model:             qwen/qwen2.5-vl-72b-instruct via OpenRouter")
     console.print(f"  Table Extraction:      Docling TableFormer")
     console.print(f"  Total documents:       {stats.total_documents}")
     console.print(f"  Downloaded:            {stats.documents_downloaded}")
@@ -209,9 +208,9 @@ async def run_pipeline(
 
     # Only process HIGH-priority docs (MEDIUM ones like core studies rarely have casing data)
     relevant = [
-    r for r in triage_results
-    if r.relevance in {DocumentRelevance.HIGH, DocumentRelevance.MEDIUM}
-    ]
+        r for r in triage_results
+        if r.relevance == DocumentRelevance.HIGH
+        ]
     stats.documents_triaged_relevant = len(relevant)
     console.print(f"\n  Processing {len(relevant)} HIGH-priority documents\n")
     # ── Stage 2: Extraction (OCR + Docling) ───────────────────────────

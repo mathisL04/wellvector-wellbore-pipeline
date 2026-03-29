@@ -15,10 +15,42 @@ from pipeline.models import (
     TriageResult,
 )
 
+SCANNED_KEEP_PATTERNS = [
+    "WELL_COMPLETION_REPORT",
+    "COMPLETION_REPORT",
+    "COMPLETION_LOG",
+    "WDSS",
+    "INDIVIDUAL_WELL_RECORD",
+    "INTERNATIONAL_DEPARTMENT",
+    "DRILLING_FLUID_SUMMARY",
+    "FORMATION_TEST",
+    "AAODC_REPORTS",
+    "CHANGE_IN_DRILLING_PROGRAM",
+]
+
+EXTRA_EXCLUDE_PATTERNS = [
+    "CORE_STUDY",
+    "CORE_ANALYSIS",
+    "CORE_DESCRIPTION",
+    "CORED_INTERVAL",
+    "CORING_ANALYSIS",
+    "PARTIAL_ROCK_ANALYSIS",
+    "LOG_ANALYSIS",
+    "CUTTINGS_AND_CORE",
+]
+
+
+def _matches_any(doc_name: str, patterns: list[str]) -> bool:
+    name_upper = doc_name.upper()
+    return any(pattern.upper() in name_upper for pattern in patterns)
+
 
 def _name_priority(doc_name: str) -> tuple[DocumentRelevance, float]:
     """Score document relevance based on its name alone."""
     name_upper = doc_name.upper()
+
+    if _matches_any(name_upper, EXTRA_EXCLUDE_PATTERNS):
+        return DocumentRelevance.IRRELEVANT, 0.0
 
     for pattern in HIGH_PRIORITY_DOC_PATTERNS:
         if pattern.upper() in name_upper:
@@ -98,11 +130,19 @@ def triage_document(doc: DocumentMeta, pdf_path: Path) -> TriageResult:
     page_texts, is_scanned = _extract_text_and_check(pdf_path)
 
     if is_scanned:
-        # Scanned docs with high-priority names still get processed
+    # Only strong whitelisted scanned docs should go to OCR
+        if _matches_any(doc.doc_name, SCANNED_KEEP_PATTERNS):
+            return TriageResult(
+                document=doc,
+                relevance=DocumentRelevance.HIGH,
+                relevance_score=0.8,
+                is_scanned=True,
+            )
+
         return TriageResult(
             document=doc,
-            relevance=name_relevance,
-            relevance_score=name_score,
+            relevance=DocumentRelevance.IRRELEVANT,
+            relevance_score=0.0,
             is_scanned=True,
         )
 

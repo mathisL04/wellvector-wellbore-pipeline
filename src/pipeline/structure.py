@@ -134,8 +134,8 @@ def _format_extraction_content(extraction: dict) -> str:
             if stripped:
                 label = f"Page {key}" if isinstance(key, int) else "Document Content"
                 parts.append(f"### {label}")
-                if len(stripped) > 5000:
-                    stripped = stripped[:5000] + "\n[...truncated...]"
+                if len(stripped) > 2500:
+                    stripped = stripped[:2500] + "\n[...truncated...]"
                 parts.append(stripped)
                 parts.append("")
 
@@ -144,8 +144,8 @@ def _format_extraction_content(extraction: dict) -> str:
         stripped = text.strip()
         if stripped:
             parts.append(f"### OCR Page {page_num}")
-            if len(stripped) > 3000:
-                stripped = stripped[:3000] + "\n[...truncated...]"
+            if len(stripped) > 1500:
+                stripped = stripped[:1500] + "\n[...truncated...]"
             parts.append(stripped)
             parts.append("")
 

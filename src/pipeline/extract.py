@@ -163,30 +163,27 @@ def extract_with_docling(pdf_path: Path, pages: list[int] | None = None) -> dict
 # ---------------------------------------------------------------------------
 
 def select_pages_for_ocr(pdf_path: Path, doc_name: str = "") -> list[int]:
-    """Select the most relevant pages for OCR from a scanned PDF.
-
-    Strategy depends on document type:
-    - Small docs (<10 pages): OCR all pages
-    - Completion Reports (large): pages 0-14 (casing data in first ~15 pages)
-    - Other docs: first 5 pages
-    """
     total = get_page_count(pdf_path)
     name_upper = doc_name.upper()
 
-    is_completion = any(p in name_upper for p in [
-        "COMPLETION_REPORT", "COMPLETION_LOG", "INDIVIDUAL_WELL_RECORD",
-        "INTERNATIONAL_DEPARTMENT",
-    ])
-
-    if total <= 5:
+    if total <= 3:
         return list(range(total))
 
-    if is_completion and total > 15:
-        # Completion reports: first 15 pages + page near end (sometimes has summary)
-        return list(range(min(15, total)))
+    if any(p in name_upper for p in ["WELL_COMPLETION_REPORT", "COMPLETION_REPORT", "INDIVIDUAL_WELL_RECORD"]):
+        return list(range(min(10, total)))
 
-    # Default: first 5 pages
-    return list(range(min(5, total)))
+    if "WDSS" in name_upper:
+        return list(range(min(3, total)))
+
+    if any(p in name_upper for p in [
+        "DRILLING_FLUID_SUMMARY",
+        "FORMATION_TEST",
+        "AAODC_REPORTS",
+        "CHANGE_IN_DRILLING_PROGRAM",
+    ]):
+        return list(range(min(3, total)))
+
+    return list(range(min(3, total)))
 
 
 # ---------------------------------------------------------------------------
