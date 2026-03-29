@@ -113,6 +113,7 @@ def records_to_csv(records: list[CasingRecord], output_path: Path) -> None:
             "Hole diameter [in]": rec.hole_diameter_in if rec.hole_diameter_in is not None else "",
             "Hole depth [m]": rec.hole_depth_m if rec.hole_depth_m is not None else "",
             "LOT/FIT mud eqv. [g/cm3]": rec.lot_fit_mud_eqv_gcm3 if rec.lot_fit_mud_eqv_gcm3 is not None else "",
+            "Formation test type": rec.formation_test_type or "",
             })
 
     df = pd.DataFrame(rows)
